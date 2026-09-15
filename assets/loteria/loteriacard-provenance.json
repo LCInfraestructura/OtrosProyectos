@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "source": "elGallo.mp3",
+    "target": "audio/loteriacard/01-gallo.mp3",
+    "sha256": "f383c60078ad31d49d846b93755439cef0358d306e78255ef2ace50501554c76"
+  },
+  {
+    "id": 2,
+    "source": "elDiablito.mp3",
+    "target": "audio/loteriacard/02-diablito.mp3",
+    "sha256": "23d3737163b88ba730e58ab6e741641fa49348f40def10fbb4c973ef212c258a"
+  },
+  {
+    "id": 3,
+    "source": "laDama.mp3",
+    "target": "audio/loteriacard/03-dama.mp3",
+    "sha256": "8548f883cedb24e1fdbd9fc562ed60fdd5a49924b3ea8e69daa0adb480a63814"
+  },
+  {
+    "id": 4,
+    "source": "elCatrin.mp3",
+    "target": "audio/loteriacard/04-catrin.mp3",
+    "sha256": "c06db6b1765df7f67e474b5c138253bcfdb4efdfdb329d0df1c6ecfb81048f32"
+  },
+  {
+    "id": 5,
+    "source": "elParaguas.mp3",
+    "target": "audio/loteriacard/05-paraguas.mp3",
+    "sha256": "e82c788b6f5c3ff45264efb9c41ca9e7dba662c46e6be820f6927ef4dd08f4c3"
+  },
+  {
+    "id": 6,
+    "source": "laSirena.mp3",
+    "target": "audio/loteriacard/06-sirena.mp3",
+    "sha256": "1ac5a9e9ce8ea20df7f6a2e85779aab55ec1fe2c4401e186daaca8da422b3136"
+  },
+  {
+    "id": 7,
+    "source": "laEscalera.mp3",
+    "target": "audio/loteriacard/07-escalera.mp3",
+    "sha256": "0ab454073642224f51fd9470223c0a7df6da446335ee7bd9e970e8cf516a1794"
+  },
+  {
+    "id": 8,
+    "source": "laBotella.mp3",
+    "target": "audio/loteriacard/08-botella.mp3",
+    "sha256": "338d291060fe7d652ba19d7c5e8cb2c3f63b3ba4b99110aef7c0712db6c2ef79"
+  },
+  {
+    "id": 9,
+    "source": "elBarril.mp3",
+    "target": "audio/loteriacard/09-barril.mp3",
+    "sha256": "cbc26374f311f0c27b3306f745f6c2b42e36a99cdc5cceb914f29830aa4b4e20"
+  },
+  {
+    "id": 10,
+    "source": "elArbol.mp3",
+    "target": "audio/loteriacard/10-arbol.mp3",
+    "sha256": "f581b82e3c3066592db70215b499ccb2b263f68e535cae842c1cf476ef6be439"
+  },
+  {
+    "id": 11,
+    "source": "elMelon.mp3",
+    "target": "audio/loteriacard/11-melon.mp3",
+    "sha256": "c570745950615194b0e1167f3e2c88bc5367252c5ae9e2a601f01255a7160c1b"
+  },
+  {
+    "id": 12,
+    "source": "elValiente.mp3",
+    "target": "audio/loteriacard/12-valiente.mp3",
+    "sha256": "70e740f6cc3e6ba9e74dd40a64332dc2e06121a4f2e8f10f888e72340ea404cd"
+  },
+  {
+    "id": 13,
+    "source": "elGorrito.mp3",
+    "target": "audio/loteriacard/13-gorrito.mp3",
+    "sha256": "14843732a5c25a43ef9471adfe9e0bec536ced5ca8104892f7bc4c67eb7b6fa3"
+  },
+  {
+    "id": 14,
+    "source": "laMuerte.mp3",
+    "target": "audio/loteriacard/14-muerte.mp3",
+    "sha256": "5285271b199c15515b15c5c1daa3b91214d8a4d19b30b914534aee48e1728be5"
+  },
+  {
+    "id": 15,
+    "source": "laPera.mp3",
+    "target": "audio/loteriacard/15-pera.mp3",
+    "sha256": "5ebd7002ddf9df102a9609abe9f3856fd39c8256970f5a7ed4838516793bc2f2"
+  },
+  {
+    "id": 16,
+    "source": "laBandera.mp3",
+    "target": "audio/loteriacard/16-bandera.mp3",
+    "sha256": "7f466716f1462812c2d074e8c73826de037abbcc5917bf7429bc8a9ead0ed883"
+  },
+  {
+    "id": 17,
+    "source": "elBandolon.mp3",
+    "target": "audio/loteriacard/17-bandolon.mp3",
+    "sha256": "df5c9368a8c416c3727f9cca10ab6439f6a0af427271469addf3bfa6ff1b4525"
+  },
+  {
+    "id": 18,
+    "source": "elVioloncello.mp3",
+    "target": "audio/loteriacard/18-violoncello.mp3",
+    "sha256": "7888a2d497407c67b662eb55e09b24874a32cb193ed7ff9a6107bb95dfb45073"
+  },
+  {
+    "id": 19,
+    "source": "laGarza.mp3",
+    "target": "audio/loteriacard/19-garza.mp3",
+    "sha256": "09cc188509edecbbe09c8e4a74c11583c7bce0896de527026caec0f08c1a1d1e"
+  },
+  {
+    "id": 20,
+    "source": "elPajaro.mp3",
+    "target": "audio/loteriacard/20-pajaro.mp3",
+    "sha256": "a145383c19a0791581f2d91b7d517b53f08adcfcd626eda02c6350ab51f5a31b"
+  },
+  {
+    "id": 21,
+    "source": "laMano.mp3",
+    "target": "audio/loteriacard/21-mano.mp3",
+    "sha256": "776e0c73892ba33ddd2386d94fdd0a36f3e2c90cd3ce74832d5bd9b12b5f19fb"
+  },
+  {
+    "id": 22,
+    "source": "laBota.mp3",
+    "target": "audio/loteriacard/22-bota.mp3",
+    "sha256": "7b9b644ade6e18934f240846ca672361cc0471eb50b5414b826f0a8d102c1a16"
+  },
+  {
+    "id": 23,
+    "source": "laLuna.mp3",
+    "target": "audio/loteriacard/23-luna.mp3",
+    "sha256": "4fe36a6b5cbd2e28d386b40a6b457a555853fb97da509cae339ee0315492b441"
+  },
+  {
+    "id": 24,
+    "source": "elCotorro.mp3",
+    "target": "audio/loteriacard/24-cotorro.mp3",
+    "sha256": "5657bf611b1dfc1da078d04d7cff5baa110d64cba4ae72dfb4c9cf74126e8d25"
+  },
+  {
+    "id": 25,
+    "source": "elBorracho.mp3",
+    "target": "audio/loteriacard/25-borracho.mp3",
+    "sha256": "dc96b633c846e71c0948da9380857eb430d30d970fb671401e705f5b20534c8c"
+  },
+  {
+    "id": 26,
+    "source": "elNegrito.mp3",
+    "target": "audio/loteriacard/26-negrito.mp3",
+    "sha256": "4e295cbae29c082801376671fd6342257765f7f38a4b33f1918892947a2a65e8"
+  },
+  {
+    "id": 27,
+    "source": "elCorazon.mp3",
+    "target": "audio/loteriacard/27-corazon.mp3",
+    "sha256": "f8c6f88f87c6cc0274440dc9db0a1adffd24ac1fb28848c835551ab1eb20c7c2"
+  },
+  {
+    "id": 28,
+    "source": "laSandia.mp3",
+    "target": "audio/loteriacard/28-sandia.mp3",
+    "sha256": "8d68922f269da73c4579952b9bccf30fe71130e1b3fa26b13092183dbe684903"
+  },
+  {
+    "id": 29,
+    "source": "elTambor.mp3",
+    "target": "audio/loteriacard/29-tambor.mp3",
+    "sha256": "83855dad18534a002eca2eb106dd3f66c6ef02167276da64de87e6eaf7460f78"
+  },
+  {
+    "id": 30,
+    "source": "elCamaron.mp3",
+    "target": "audio/loteriacard/30-camaron.mp3",
+    "sha256": "9ef61336b4ee859b3bb3b2fed3b6641e6692e1bf1762fb2a6a80af9fa6e62a73"
+  },
+  {
+    "id": 31,
+    "source": "lasJaras.mp3",
+    "target": "audio/loteriacard/31-jaras.mp3",
+    "sha256": "8fcef6978ed5888af1f952d43e0d96445e9fdbd4419b74967adca21128b5c318"
+  },
+  {
+    "id": 32,
+    "source": "elMusico.mp3",
+    "target": "audio/loteriacard/32-musico.mp3",
+    "sha256": "083602503c84e50d94d9166bfe5f77442dc30a5d97c4d981144e91b039ed6d4c"
+  },
+  {
+    "id": 33,
+    "source": "laArana.mp3",
+    "target": "audio/loteriacard/33-arana.mp3",
+    "sha256": "d200d595fb7acb05155688c8a0c0d0fb2531ebce5b308be08be06fb058d12da1"
+  },
+  {
+    "id": 34,
+    "source": "elSoldado.mp3",
+    "target": "audio/loteriacard/34-soldado.mp3",
+    "sha256": "1957bea35ea3fe0ec4535db6a86d1862fe8d445dd72afe13ef81b6ace65c0a37"
+  },
+  {
+    "id": 35,
+    "source": "laEstrella.mp3",
+    "target": "audio/loteriacard/35-estrella.mp3",
+    "sha256": "2183e302ded353e4005462880884bf422a20b8e170266496164bc5c89b2d719d"
+  },
+  {
+    "id": 36,
+    "source": "elCazo.mp3",
+    "target": "audio/loteriacard/36-cazo.mp3",
+    "sha256": "df0546070e6febc0e2e3794516a0a78c14f13e0dec925f6b980a7c2eff8bd256"
+  },
+  {
+    "id": 37,
+    "source": "elMundo.mp3",
+    "target": "audio/loteriacard/37-mundo.mp3",
+    "sha256": "4f9a2e04b773faebefc000a1ac716e465b8671382f4f6f53555781e9141ad29f"
+  },
+  {
+    "id": 38,
+    "source": "elApache.mp3",
+    "target": "audio/loteriacard/38-apache.mp3",
+    "sha256": "fe42e214d15e20f1177e0a23c7cdfa1b7144ce0fc652f5559f703f96614b625a"
+  },
+  {
+    "id": 39,
+    "source": "elNopal.mp3",
+    "target": "audio/loteriacard/39-nopal.mp3",
+    "sha256": "75f0b226e7abe5cf9ec12b48a92ddcfcc10c3b236158e0c8fc677d1e78c16179"
+  },
+  {
+    "id": 40,
+    "source": "elAlacran.mp3",
+    "target": "audio/loteriacard/40-alacran.mp3",
+    "sha256": "488807c0dcfe4ef3fa394c5445d5c829c59d2864972033d019aa91c78ff09617"
+  },
+  {
+    "id": 41,
+    "source": "laRosa.mp3",
+    "target": "audio/loteriacard/41-rosa.mp3",
+    "sha256": "85aa4f9a5807db90bebf25951a3fd34abb1a3c3dbf87155db5a5912c9aabba12"
+  },
+  {
+    "id": 42,
+    "source": "laCalavera.mp3",
+    "target": "audio/loteriacard/42-calavera.mp3",
+    "sha256": "707f5dc41df5441964513400d56470c89a9d0a0f20bc5a6d3290514f368b054d"
+  },
+  {
+    "id": 43,
+    "source": "laCampana.mp3",
+    "target": "audio/loteriacard/43-campana.mp3",
+    "sha256": "3534a5f1ac962fd71235cf16af7aac7f34d28fe6cbef93f00ac120e06dab50d4"
+  },
+  {
+    "id": 44,
+    "source": "elCantarito.mp3",
+    "target": "audio/loteriacard/44-cantarito.mp3",
+    "sha256": "3530b148ef96bfc4cdae65943ec47360db16ad87cd528bf64cc50e41d543a8f2"
+  },
+  {
+    "id": 45,
+    "source": "elVenado.mp3",
+    "target": "audio/loteriacard/45-venado.mp3",
+    "sha256": "47be18cb76bbc426a960576c561af8e248279c7ce4bf430d787bc35cc1ce8dd0"
+  },
+  {
+    "id": 46,
+    "source": "elSol.mp3",
+    "target": "audio/loteriacard/46-sol.mp3",
+    "sha256": "e7f6cf99926a13063dd21ef288e5a290cb897deb0a5e7f45579374d68a751c1c"
+  },
+  {
+    "id": 47,
+    "source": "laCorona.mp3",
+    "target": "audio/loteriacard/47-corona.mp3",
+    "sha256": "603f277045d5c10ad3265a9d22fc7ab2483b406a867939330f067d49328d873b"
+  },
+  {
+    "id": 48,
+    "source": "laChalupa.mp3",
+    "target": "audio/loteriacard/48-chalupa.mp3",
+    "sha256": "750afc23a55a262ca29f0ef55bd6afe7a1c550917723f30e40e8fd589a399420"
+  },
+  {
+    "id": 49,
+    "source": "elPino.mp3",
+    "target": "audio/loteriacard/49-pino.mp3",
+    "sha256": "270a7fd74ff0b247f9727f28ada2dbd2e4318e0dbc048ecf977ae36c06a19eca"
+  },
+  {
+    "id": 50,
+    "source": "elPescado.mp3",
+    "target": "audio/loteriacard/50-pescado.mp3",
+    "sha256": "756ea3b4870ed4e3c1730c45dec7fd21d1ec981c8d6d94c1d9dbe47be0b4f2e3"
+  },
+  {
+    "id": 51,
+    "source": "laPalma.mp3",
+    "target": "audio/loteriacard/51-palma.mp3",
+    "sha256": "61ab6c75b6e6564ff8daafa3b5fb7d63489702102eed22e5f807c1901ebb179d"
+  },
+  {
+    "id": 52,
+    "source": "laMaceta.mp3",
+    "target": "audio/loteriacard/52-maceta.mp3",
+    "sha256": "7bacb0ff558142c81d330fe081e0008e8f45d560e4f1f61b0d3a98e1c768aa4c"
+  },
+  {
+    "id": 53,
+    "source": "elArpa.mp3",
+    "target": "audio/loteriacard/53-arpa.mp3",
+    "sha256": "a4c55f59fa6d79ad9a95c6bd27b71255f658eeed48c24d2883242a52b330e8b1"
+  },
+  {
+    "id": 54,
+    "source": "laRana.mp3",
+    "target": "audio/loteriacard/54-rana.mp3",
+    "sha256": "68c280106aa37194cde98028681a2a311f1751f2f7b3216c27433d76dcfa9322"
+  },
+  {
+    "effect": "flipcard",
+    "source": "flipCard.mp3",
+    "target": "audio/effects/flipcard.mp3",
+    "sha256": "1c04e41918b392a643c22d6c02ef34eeab0341c70d46b7d517078725b79d8ee4"
+  }
+]

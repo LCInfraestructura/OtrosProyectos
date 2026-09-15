@@ -1,0 +1,866 @@
+[
+  {
+    "id": 1,
+    "number": 1,
+    "name": "El Gallo",
+    "title": "El Gallo",
+    "slug": "gallo",
+    "images": {
+      "pixel": "images/pixel/01-gallo.png",
+      "traditional": "images/traditional/01-gallo.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/01-gallo.mp3",
+      "repo": "audio/repo/01-gallo.m4a",
+      "loteriacard": "audio/loteriacard/01-gallo.mp3"
+    }
+  },
+  {
+    "id": 2,
+    "number": 2,
+    "name": "El Diablito",
+    "title": "El Diablito",
+    "slug": "diablito",
+    "images": {
+      "pixel": "images/pixel/02-diablito.png",
+      "traditional": "images/traditional/02-diablito.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/02-diablito.mp3",
+      "repo": "audio/repo/02-diablito.m4a",
+      "loteriacard": "audio/loteriacard/02-diablito.mp3"
+    }
+  },
+  {
+    "id": 3,
+    "number": 3,
+    "name": "La Dama",
+    "title": "La Dama",
+    "slug": "dama",
+    "images": {
+      "pixel": "images/pixel/03-dama.png",
+      "traditional": "images/traditional/03-dama.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/03-dama.mp3",
+      "repo": "audio/repo/03-dama.m4a",
+      "loteriacard": "audio/loteriacard/03-dama.mp3"
+    }
+  },
+  {
+    "id": 4,
+    "number": 4,
+    "name": "El Catrín",
+    "title": "El Catrín",
+    "slug": "catrin",
+    "images": {
+      "pixel": "images/pixel/04-catrin.png",
+      "traditional": "images/traditional/04-catrin.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/04-catrin.mp3",
+      "repo": "audio/repo/04-catrin.m4a",
+      "loteriacard": "audio/loteriacard/04-catrin.mp3"
+    }
+  },
+  {
+    "id": 5,
+    "number": 5,
+    "name": "El Paraguas",
+    "title": "El Paraguas",
+    "slug": "paraguas",
+    "images": {
+      "pixel": "images/pixel/05-paraguas.png",
+      "traditional": "images/traditional/05-paraguas.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/05-paraguas.mp3",
+      "repo": "audio/repo/05-paraguas.m4a",
+      "loteriacard": "audio/loteriacard/05-paraguas.mp3"
+    }
+  },
+  {
+    "id": 6,
+    "number": 6,
+    "name": "La Sirena",
+    "title": "La Sirena",
+    "slug": "sirena",
+    "images": {
+      "pixel": "images/pixel/06-sirena.png",
+      "traditional": "images/traditional/06-sirena.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/06-sirena.mp3",
+      "repo": "audio/repo/06-sirena.m4a",
+      "loteriacard": "audio/loteriacard/06-sirena.mp3"
+    }
+  },
+  {
+    "id": 7,
+    "number": 7,
+    "name": "La Escalera",
+    "title": "La Escalera",
+    "slug": "escalera",
+    "images": {
+      "pixel": "images/pixel/07-escalera.png",
+      "traditional": "images/traditional/07-escalera.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/07-escalera.mp3",
+      "repo": "audio/repo/07-escalera.m4a",
+      "loteriacard": "audio/loteriacard/07-escalera.mp3"
+    }
+  },
+  {
+    "id": 8,
+    "number": 8,
+    "name": "La Botella",
+    "title": "La Botella",
+    "slug": "botella",
+    "images": {
+      "pixel": "images/pixel/08-botella.png",
+      "traditional": "images/traditional/08-botella.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/08-botella.mp3",
+      "repo": "audio/repo/08-botella.m4a",
+      "loteriacard": "audio/loteriacard/08-botella.mp3"
+    }
+  },
+  {
+    "id": 9,
+    "number": 9,
+    "name": "El Barril",
+    "title": "El Barril",
+    "slug": "barril",
+    "images": {
+      "pixel": "images/pixel/09-barril.png",
+      "traditional": "images/traditional/09-barril.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/09-barril.mp3",
+      "repo": "audio/repo/09-barril.m4a",
+      "loteriacard": "audio/loteriacard/09-barril.mp3"
+    }
+  },
+  {
+    "id": 10,
+    "number": 10,
+    "name": "El Árbol",
+    "title": "El Árbol",
+    "slug": "arbol",
+    "images": {
+      "pixel": "images/pixel/10-arbol.png",
+      "traditional": "images/traditional/10-arbol.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/10-arbol.mp3",
+      "repo": "audio/repo/10-arbol.m4a",
+      "loteriacard": "audio/loteriacard/10-arbol.mp3"
+    }
+  },
+  {
+    "id": 11,
+    "number": 11,
+    "name": "El Melón",
+    "title": "El Melón",
+    "slug": "melon",
+    "images": {
+      "pixel": "images/pixel/11-melon.png",
+      "traditional": "images/traditional/11-melon.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/11-melon.mp3",
+      "repo": "audio/repo/11-melon.m4a",
+      "loteriacard": "audio/loteriacard/11-melon.mp3"
+    }
+  },
+  {
+    "id": 12,
+    "number": 12,
+    "name": "El Valiente",
+    "title": "El Valiente",
+    "slug": "valiente",
+    "images": {
+      "pixel": "images/pixel/12-valiente.png",
+      "traditional": "images/traditional/12-valiente.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/12-valiente.mp3",
+      "repo": "audio/repo/12-valiente.m4a",
+      "loteriacard": "audio/loteriacard/12-valiente.mp3"
+    }
+  },
+  {
+    "id": 13,
+    "number": 13,
+    "name": "El Gorrito",
+    "title": "El Gorrito",
+    "slug": "gorrito",
+    "images": {
+      "pixel": "images/pixel/13-gorrito.png",
+      "traditional": "images/traditional/13-gorrito.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/13-gorrito.mp3",
+      "repo": "audio/repo/13-gorrito.m4a",
+      "loteriacard": "audio/loteriacard/13-gorrito.mp3"
+    }
+  },
+  {
+    "id": 14,
+    "number": 14,
+    "name": "La Muerte",
+    "title": "La Muerte",
+    "slug": "muerte",
+    "images": {
+      "pixel": "images/pixel/14-muerte.png",
+      "traditional": "images/traditional/14-muerte.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/14-muerte.mp3",
+      "repo": "audio/repo/14-muerte.m4a",
+      "loteriacard": "audio/loteriacard/14-muerte.mp3"
+    }
+  },
+  {
+    "id": 15,
+    "number": 15,
+    "name": "La Pera",
+    "title": "La Pera",
+    "slug": "pera",
+    "images": {
+      "pixel": "images/pixel/15-pera.png",
+      "traditional": "images/traditional/15-pera.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/15-pera.mp3",
+      "repo": "audio/repo/15-pera.m4a",
+      "loteriacard": "audio/loteriacard/15-pera.mp3"
+    }
+  },
+  {
+    "id": 16,
+    "number": 16,
+    "name": "La Bandera",
+    "title": "La Bandera",
+    "slug": "bandera",
+    "images": {
+      "pixel": "images/pixel/16-bandera.png",
+      "traditional": "images/traditional/16-bandera.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/16-bandera.mp3",
+      "repo": "audio/repo/16-bandera.m4a",
+      "loteriacard": "audio/loteriacard/16-bandera.mp3"
+    }
+  },
+  {
+    "id": 17,
+    "number": 17,
+    "name": "El Bandolón",
+    "title": "El Bandolón",
+    "slug": "bandolon",
+    "images": {
+      "pixel": "images/pixel/17-bandolon.png",
+      "traditional": "images/traditional/17-bandolon.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/17-bandolon.mp3",
+      "repo": "audio/repo/17-bandolon.m4a",
+      "loteriacard": "audio/loteriacard/17-bandolon.mp3"
+    }
+  },
+  {
+    "id": 18,
+    "number": 18,
+    "name": "El Violoncello",
+    "title": "El Violoncello",
+    "slug": "violoncello",
+    "images": {
+      "pixel": "images/pixel/18-violoncello.png",
+      "traditional": "images/traditional/18-violoncello.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/18-violoncello.mp3",
+      "repo": "audio/repo/18-violoncello.m4a",
+      "loteriacard": "audio/loteriacard/18-violoncello.mp3"
+    }
+  },
+  {
+    "id": 19,
+    "number": 19,
+    "name": "La Garza",
+    "title": "La Garza",
+    "slug": "garza",
+    "images": {
+      "pixel": "images/pixel/19-garza.png",
+      "traditional": "images/traditional/19-garza.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/19-garza.mp3",
+      "repo": "audio/repo/19-garza.m4a",
+      "loteriacard": "audio/loteriacard/19-garza.mp3"
+    }
+  },
+  {
+    "id": 20,
+    "number": 20,
+    "name": "El Pájaro",
+    "title": "El Pájaro",
+    "slug": "pajaro",
+    "images": {
+      "pixel": "images/pixel/20-pajaro.png",
+      "traditional": "images/traditional/20-pajaro.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/20-pajaro.mp3",
+      "repo": "audio/repo/20-pajaro.m4a",
+      "loteriacard": "audio/loteriacard/20-pajaro.mp3"
+    }
+  },
+  {
+    "id": 21,
+    "number": 21,
+    "name": "La Mano",
+    "title": "La Mano",
+    "slug": "mano",
+    "images": {
+      "pixel": "images/pixel/21-mano.png",
+      "traditional": "images/traditional/21-mano.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/21-mano.mp3",
+      "repo": "audio/repo/21-mano.m4a",
+      "loteriacard": "audio/loteriacard/21-mano.mp3"
+    }
+  },
+  {
+    "id": 22,
+    "number": 22,
+    "name": "La Bota",
+    "title": "La Bota",
+    "slug": "bota",
+    "images": {
+      "pixel": "images/pixel/22-bota.png",
+      "traditional": "images/traditional/22-bota.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/22-bota.mp3",
+      "repo": "audio/repo/22-bota.m4a",
+      "loteriacard": "audio/loteriacard/22-bota.mp3"
+    }
+  },
+  {
+    "id": 23,
+    "number": 23,
+    "name": "La Luna",
+    "title": "La Luna",
+    "slug": "luna",
+    "images": {
+      "pixel": "images/pixel/23-luna.png",
+      "traditional": "images/traditional/23-luna.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/23-luna.mp3",
+      "repo": "audio/repo/23-luna.m4a",
+      "loteriacard": "audio/loteriacard/23-luna.mp3"
+    }
+  },
+  {
+    "id": 24,
+    "number": 24,
+    "name": "El Cotorro",
+    "title": "El Cotorro",
+    "slug": "cotorro",
+    "images": {
+      "pixel": "images/pixel/24-cotorro.png",
+      "traditional": "images/traditional/24-cotorro.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/24-cotorro.mp3",
+      "repo": "audio/repo/24-cotorro.m4a",
+      "loteriacard": "audio/loteriacard/24-cotorro.mp3"
+    }
+  },
+  {
+    "id": 25,
+    "number": 25,
+    "name": "El Borracho",
+    "title": "El Borracho",
+    "slug": "borracho",
+    "images": {
+      "pixel": "images/pixel/25-borracho.png",
+      "traditional": "images/traditional/25-borracho.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/25-borracho.mp3",
+      "repo": "audio/repo/25-borracho.m4a",
+      "loteriacard": "audio/loteriacard/25-borracho.mp3"
+    }
+  },
+  {
+    "id": 26,
+    "number": 26,
+    "name": "El Negrito",
+    "title": "El Negrito",
+    "slug": "negrito",
+    "images": {
+      "pixel": "images/pixel/26-negrito.png",
+      "traditional": "images/traditional/26-negrito.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/26-negrito.mp3",
+      "repo": "audio/repo/26-negrito.m4a",
+      "loteriacard": "audio/loteriacard/26-negrito.mp3"
+    }
+  },
+  {
+    "id": 27,
+    "number": 27,
+    "name": "El Corazón",
+    "title": "El Corazón",
+    "slug": "corazon",
+    "images": {
+      "pixel": "images/pixel/27-corazon.png",
+      "traditional": "images/traditional/27-corazon.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/27-corazon.mp3",
+      "repo": "audio/repo/27-corazon.m4a",
+      "loteriacard": "audio/loteriacard/27-corazon.mp3"
+    }
+  },
+  {
+    "id": 28,
+    "number": 28,
+    "name": "La Sandía",
+    "title": "La Sandía",
+    "slug": "sandia",
+    "images": {
+      "pixel": "images/pixel/28-sandia.png",
+      "traditional": "images/traditional/28-sandia.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/28-sandia.mp3",
+      "repo": "audio/repo/28-sandia.m4a",
+      "loteriacard": "audio/loteriacard/28-sandia.mp3"
+    }
+  },
+  {
+    "id": 29,
+    "number": 29,
+    "name": "El Tambor",
+    "title": "El Tambor",
+    "slug": "tambor",
+    "images": {
+      "pixel": "images/pixel/29-tambor.png",
+      "traditional": "images/traditional/29-tambor.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/29-tambor.mp3",
+      "repo": "audio/repo/29-tambor.m4a",
+      "loteriacard": "audio/loteriacard/29-tambor.mp3"
+    }
+  },
+  {
+    "id": 30,
+    "number": 30,
+    "name": "El Camarón",
+    "title": "El Camarón",
+    "slug": "camaron",
+    "images": {
+      "pixel": "images/pixel/30-camaron.png",
+      "traditional": "images/traditional/30-camaron.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/30-camaron.mp3",
+      "repo": "audio/repo/30-camaron.m4a",
+      "loteriacard": "audio/loteriacard/30-camaron.mp3"
+    }
+  },
+  {
+    "id": 31,
+    "number": 31,
+    "name": "Las Jaras",
+    "title": "Las Jaras",
+    "slug": "jaras",
+    "images": {
+      "pixel": "images/pixel/31-jaras.png",
+      "traditional": "images/traditional/31-jaras.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/31-jaras.mp3",
+      "repo": "audio/repo/31-jaras.m4a",
+      "loteriacard": "audio/loteriacard/31-jaras.mp3"
+    }
+  },
+  {
+    "id": 32,
+    "number": 32,
+    "name": "El Músico",
+    "title": "El Músico",
+    "slug": "musico",
+    "images": {
+      "pixel": "images/pixel/32-musico.png",
+      "traditional": "images/traditional/32-musico.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/32-musico.mp3",
+      "repo": "audio/repo/32-musico.m4a",
+      "loteriacard": "audio/loteriacard/32-musico.mp3"
+    }
+  },
+  {
+    "id": 33,
+    "number": 33,
+    "name": "La Araña",
+    "title": "La Araña",
+    "slug": "arana",
+    "images": {
+      "pixel": "images/pixel/33-arana.png",
+      "traditional": "images/traditional/33-arana.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/33-arana.mp3",
+      "repo": "audio/repo/33-arana.m4a",
+      "loteriacard": "audio/loteriacard/33-arana.mp3"
+    }
+  },
+  {
+    "id": 34,
+    "number": 34,
+    "name": "El Soldado",
+    "title": "El Soldado",
+    "slug": "soldado",
+    "images": {
+      "pixel": "images/pixel/34-soldado.png",
+      "traditional": "images/traditional/34-soldado.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/34-soldado.mp3",
+      "repo": "audio/repo/34-soldado.m4a",
+      "loteriacard": "audio/loteriacard/34-soldado.mp3"
+    }
+  },
+  {
+    "id": 35,
+    "number": 35,
+    "name": "La Estrella",
+    "title": "La Estrella",
+    "slug": "estrella",
+    "images": {
+      "pixel": "images/pixel/35-estrella.png",
+      "traditional": "images/traditional/35-estrella.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/35-estrella.mp3",
+      "repo": "audio/repo/35-estrella.m4a",
+      "loteriacard": "audio/loteriacard/35-estrella.mp3"
+    }
+  },
+  {
+    "id": 36,
+    "number": 36,
+    "name": "El Cazo",
+    "title": "El Cazo",
+    "slug": "cazo",
+    "images": {
+      "pixel": "images/pixel/36-cazo.png",
+      "traditional": "images/traditional/36-cazo.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/36-cazo.mp3",
+      "repo": "audio/repo/36-cazo.m4a",
+      "loteriacard": "audio/loteriacard/36-cazo.mp3"
+    }
+  },
+  {
+    "id": 37,
+    "number": 37,
+    "name": "El Mundo",
+    "title": "El Mundo",
+    "slug": "mundo",
+    "images": {
+      "pixel": "images/pixel/37-mundo.png",
+      "traditional": "images/traditional/37-mundo.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/37-mundo.mp3",
+      "repo": "audio/repo/37-mundo.m4a",
+      "loteriacard": "audio/loteriacard/37-mundo.mp3"
+    }
+  },
+  {
+    "id": 38,
+    "number": 38,
+    "name": "El Apache",
+    "title": "El Apache",
+    "slug": "apache",
+    "images": {
+      "pixel": "images/pixel/38-apache.png",
+      "traditional": "images/traditional/38-apache.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/38-apache.mp3",
+      "repo": "audio/repo/38-apache.m4a",
+      "loteriacard": "audio/loteriacard/38-apache.mp3"
+    }
+  },
+  {
+    "id": 39,
+    "number": 39,
+    "name": "El Nopal",
+    "title": "El Nopal",
+    "slug": "nopal",
+    "images": {
+      "pixel": "images/pixel/39-nopal.png",
+      "traditional": "images/traditional/39-nopal.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/39-nopal.mp3",
+      "repo": "audio/repo/39-nopal.m4a",
+      "loteriacard": "audio/loteriacard/39-nopal.mp3"
+    }
+  },
+  {
+    "id": 40,
+    "number": 40,
+    "name": "El Alacrán",
+    "title": "El Alacrán",
+    "slug": "alacran",
+    "images": {
+      "pixel": "images/pixel/40-alacran.png",
+      "traditional": "images/traditional/40-alacran.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/40-alacran.mp3",
+      "repo": "audio/repo/40-alacran.m4a",
+      "loteriacard": "audio/loteriacard/40-alacran.mp3"
+    }
+  },
+  {
+    "id": 41,
+    "number": 41,
+    "name": "La Rosa",
+    "title": "La Rosa",
+    "slug": "rosa",
+    "images": {
+      "pixel": "images/pixel/41-rosa.png",
+      "traditional": "images/traditional/41-rosa.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/41-rosa.mp3",
+      "repo": "audio/repo/41-rosa.m4a",
+      "loteriacard": "audio/loteriacard/41-rosa.mp3"
+    }
+  },
+  {
+    "id": 42,
+    "number": 42,
+    "name": "La Calavera",
+    "title": "La Calavera",
+    "slug": "calavera",
+    "images": {
+      "pixel": "images/pixel/42-calavera.png",
+      "traditional": "images/traditional/42-calavera.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/42-calavera.mp3",
+      "repo": "audio/repo/42-calavera.m4a",
+      "loteriacard": "audio/loteriacard/42-calavera.mp3"
+    }
+  },
+  {
+    "id": 43,
+    "number": 43,
+    "name": "La Campana",
+    "title": "La Campana",
+    "slug": "campana",
+    "images": {
+      "pixel": "images/pixel/43-campana.png",
+      "traditional": "images/traditional/43-campana.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/43-campana.mp3",
+      "repo": "audio/repo/43-campana.m4a",
+      "loteriacard": "audio/loteriacard/43-campana.mp3"
+    }
+  },
+  {
+    "id": 44,
+    "number": 44,
+    "name": "El Cantarito",
+    "title": "El Cantarito",
+    "slug": "cantarito",
+    "images": {
+      "pixel": "images/pixel/44-cantarito.png",
+      "traditional": "images/traditional/44-cantarito.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/44-cantarito.mp3",
+      "repo": "audio/repo/44-cantarito.m4a",
+      "loteriacard": "audio/loteriacard/44-cantarito.mp3"
+    }
+  },
+  {
+    "id": 45,
+    "number": 45,
+    "name": "El Venado",
+    "title": "El Venado",
+    "slug": "venado",
+    "images": {
+      "pixel": "images/pixel/45-venado.png",
+      "traditional": "images/traditional/45-venado.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/45-venado.mp3",
+      "repo": "audio/repo/45-venado.m4a",
+      "loteriacard": "audio/loteriacard/45-venado.mp3"
+    }
+  },
+  {
+    "id": 46,
+    "number": 46,
+    "name": "El Sol",
+    "title": "El Sol",
+    "slug": "sol",
+    "images": {
+      "pixel": "images/pixel/46-sol.png",
+      "traditional": "images/traditional/46-sol.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/46-sol.mp3",
+      "repo": "audio/repo/46-sol.m4a",
+      "loteriacard": "audio/loteriacard/46-sol.mp3"
+    }
+  },
+  {
+    "id": 47,
+    "number": 47,
+    "name": "La Corona",
+    "title": "La Corona",
+    "slug": "corona",
+    "images": {
+      "pixel": "images/pixel/47-corona.png",
+      "traditional": "images/traditional/47-corona.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/47-corona.mp3",
+      "repo": "audio/repo/47-corona.m4a",
+      "loteriacard": "audio/loteriacard/47-corona.mp3"
+    }
+  },
+  {
+    "id": 48,
+    "number": 48,
+    "name": "La Chalupa",
+    "title": "La Chalupa",
+    "slug": "chalupa",
+    "images": {
+      "pixel": "images/pixel/48-chalupa.png",
+      "traditional": "images/traditional/48-chalupa.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/48-chalupa.mp3",
+      "repo": "audio/repo/48-chalupa.m4a",
+      "loteriacard": "audio/loteriacard/48-chalupa.mp3"
+    }
+  },
+  {
+    "id": 49,
+    "number": 49,
+    "name": "El Pino",
+    "title": "El Pino",
+    "slug": "pino",
+    "images": {
+      "pixel": "images/pixel/49-pino.png",
+      "traditional": "images/traditional/49-pino.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/49-pino.mp3",
+      "repo": "audio/repo/49-pino.m4a",
+      "loteriacard": "audio/loteriacard/49-pino.mp3"
+    }
+  },
+  {
+    "id": 50,
+    "number": 50,
+    "name": "El Pescado",
+    "title": "El Pescado",
+    "slug": "pescado",
+    "images": {
+      "pixel": "images/pixel/50-pescado.png",
+      "traditional": "images/traditional/50-pescado.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/50-pescado.mp3",
+      "repo": "audio/repo/50-pescado.m4a",
+      "loteriacard": "audio/loteriacard/50-pescado.mp3"
+    }
+  },
+  {
+    "id": 51,
+    "number": 51,
+    "name": "La Palma",
+    "title": "La Palma",
+    "slug": "palma",
+    "images": {
+      "pixel": "images/pixel/51-palma.png",
+      "traditional": "images/traditional/51-palma.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/51-palma.mp3",
+      "repo": "audio/repo/51-palma.m4a",
+      "loteriacard": "audio/loteriacard/51-palma.mp3"
+    }
+  },
+  {
+    "id": 52,
+    "number": 52,
+    "name": "La Maceta",
+    "title": "La Maceta",
+    "slug": "maceta",
+    "images": {
+      "pixel": "images/pixel/52-maceta.png",
+      "traditional": "images/traditional/52-maceta.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/52-maceta.mp3",
+      "repo": "audio/repo/52-maceta.m4a",
+      "loteriacard": "audio/loteriacard/52-maceta.mp3"
+    }
+  },
+  {
+    "id": 53,
+    "number": 53,
+    "name": "El Arpa",
+    "title": "El Arpa",
+    "slug": "arpa",
+    "images": {
+      "pixel": "images/pixel/53-arpa.png",
+      "traditional": "images/traditional/53-arpa.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/53-arpa.mp3",
+      "repo": "audio/repo/53-arpa.m4a",
+      "loteriacard": "audio/loteriacard/53-arpa.mp3"
+    }
+  },
+  {
+    "id": 54,
+    "number": 54,
+    "name": "La Rana",
+    "title": "La Rana",
+    "slug": "rana",
+    "images": {
+      "pixel": "images/pixel/54-rana.png",
+      "traditional": "images/traditional/54-rana.jpg"
+    },
+    "audio": {
+      "radioteca": "audio/radioteca/54-rana.mp3",
+      "repo": "audio/repo/54-rana.m4a",
+      "loteriacard": "audio/loteriacard/54-rana.mp3"
+    }
+  }
+]

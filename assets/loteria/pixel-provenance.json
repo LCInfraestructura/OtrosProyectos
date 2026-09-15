@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "source": "elgallo.png",
+    "target": "images/pixel/01-gallo.png",
+    "sha256": "48797ba9d34c548efe07b98b09a52edb2d3e5fc1bf8c98b100cb960afa5a4605"
+  },
+  {
+    "id": 2,
+    "source": "eldiablito.png",
+    "target": "images/pixel/02-diablito.png",
+    "sha256": "38da16c58ef84a60b03dd5d894cbea35d69ca01898ddfa82e7e5965dcfa2461b"
+  },
+  {
+    "id": 3,
+    "source": "ladama.png",
+    "target": "images/pixel/03-dama.png",
+    "sha256": "81415829120078b61156136d3fe12efde6b932e1cb966476d2dee85780acebaa"
+  },
+  {
+    "id": 4,
+    "source": "elcatrin.png",
+    "target": "images/pixel/04-catrin.png",
+    "sha256": "065f968d1f0e9ea1b93bb8f21a64ae1f3f1e454eacdeea6d7764a4a6ac70ee8b"
+  },
+  {
+    "id": 5,
+    "source": "elparaguas.png",
+    "target": "images/pixel/05-paraguas.png",
+    "sha256": "e27f7ae9ee7ea8b5d8018b53e9e706e24ad70d28e0de899a9a450bc5641833bb"
+  },
+  {
+    "id": 6,
+    "source": "lasirena.png",
+    "target": "images/pixel/06-sirena.png",
+    "sha256": "3533b48bda31d2476684a2a0fcb905c5ddaa5773d846f23a17fb3e6ebe868470"
+  },
+  {
+    "id": 7,
+    "source": "laescalera.png",
+    "target": "images/pixel/07-escalera.png",
+    "sha256": "a7d2511a8caa99485101b97b7de02ca5dc5d122e300bd4510e52437c8377f570"
+  },
+  {
+    "id": 8,
+    "source": "labotella.png",
+    "target": "images/pixel/08-botella.png",
+    "sha256": "75a7194ac4b738f7bf859ab3a5d5e387076c60d41112d1ba7af9527cd971152d"
+  },
+  {
+    "id": 9,
+    "source": "elbarril.png",
+    "target": "images/pixel/09-barril.png",
+    "sha256": "427b123643c47b16858f934e99f92602dc761b378bc49325353beda50317b7e8"
+  },
+  {
+    "id": 10,
+    "source": "elarbol.png",
+    "target": "images/pixel/10-arbol.png",
+    "sha256": "fcd2d5ebf02baa0ec8ee555475723d9877a508d9b54f2c0097615c210143c846"
+  },
+  {
+    "id": 11,
+    "source": "elmelon.png",
+    "target": "images/pixel/11-melon.png",
+    "sha256": "33560c29c6d63f99ab264dbc39cb54f9a876da83242902e172d754d4ab253236"
+  },
+  {
+    "id": 12,
+    "source": "elvaliente.png",
+    "target": "images/pixel/12-valiente.png",
+    "sha256": "4082e002fbfb0948894cad1102d1b19bf9cbd693370443cd230b07662e3a9aa1"
+  },
+  {
+    "id": 13,
+    "source": "elgorrito.png",
+    "target": "images/pixel/13-gorrito.png",
+    "sha256": "8a4a606c5d2bb8a8f3df943062a9c347ee8a1ee54ce14f4902632f0488e45409"
+  },
+  {
+    "id": 14,
+    "source": "lamuerte.png",
+    "target": "images/pixel/14-muerte.png",
+    "sha256": "6b56be889c8b096eddbae154035c0013ab7457830e2b3e9d12e01795ca4fdc91"
+  },
+  {
+    "id": 15,
+    "source": "lapera.png",
+    "target": "images/pixel/15-pera.png",
+    "sha256": "d250315a90469b66f28f5b574d3fa96e6475d6dc47e4c8cfe65b53ba2efd635f"
+  },
+  {
+    "id": 16,
+    "source": "labandera.png",
+    "target": "images/pixel/16-bandera.png",
+    "sha256": "fa53c071ffa7f9e4bf8ebecb8dbfb54c23efa66c3f88d19381bb415c1a20cc09"
+  },
+  {
+    "id": 17,
+    "source": "elbandolon.png",
+    "target": "images/pixel/17-bandolon.png",
+    "sha256": "fcfea5d982cf1fa27c8fc26c021a608c562b7e27bd89a66636ea363e097204fe"
+  },
+  {
+    "id": 18,
+    "source": "elvioloncello.png",
+    "target": "images/pixel/18-violoncello.png",
+    "sha256": "04ab8a66748e9c588d925a2577471e648d66c1ec2fc9e99bdb8aef5cda70f266"
+  },
+  {
+    "id": 19,
+    "source": "lagarza.png",
+    "target": "images/pixel/19-garza.png",
+    "sha256": "e513647b4278d7ef3287c5bfb6041b56d2871403a2b2df19fbaec8c5c0c88493"
+  },
+  {
+    "id": 20,
+    "source": "elpajaro.png",
+    "target": "images/pixel/20-pajaro.png",
+    "sha256": "6aaa3dfca1e748f658fee987ac01d3fea3dd1d772aec19295cc5c26a7aa21630"
+  },
+  {
+    "id": 21,
+    "source": "lamano.png",
+    "target": "images/pixel/21-mano.png",
+    "sha256": "12446f230630042f61e3b15c0c83179fb11761a178a61f80799e969b6411f00a"
+  },
+  {
+    "id": 22,
+    "source": "labota.png",
+    "target": "images/pixel/22-bota.png",
+    "sha256": "2903792cbea1373e6204cd2d347014f93e1456a9a220a1e42f2d42344be7e5e6"
+  },
+  {
+    "id": 23,
+    "source": "laluna.png",
+    "target": "images/pixel/23-luna.png",
+    "sha256": "bec74539a3523eb6d2602cdc5580bf200784f8eaf8cf1872a5ab15d332af5532"
+  },
+  {
+    "id": 24,
+    "source": "elcotorro.png",
+    "target": "images/pixel/24-cotorro.png",
+    "sha256": "97aca24ce9dd4b5cc7d26fc600e5a0a42541cd39e80698665472985c1dc0bb5d"
+  },
+  {
+    "id": 25,
+    "source": "elborracho.png",
+    "target": "images/pixel/25-borracho.png",
+    "sha256": "4ce4fd9a19122500740b5784c4c4ee641157a6dce5d72fa0c30886c2514bed24"
+  },
+  {
+    "id": 26,
+    "source": "elnegrito.png",
+    "target": "images/pixel/26-negrito.png",
+    "sha256": "c021f947d2beea8adb7767ec15da0232f67d11a054a525ebfa8bede2f7973b1c"
+  },
+  {
+    "id": 27,
+    "source": "elcorazon.png",
+    "target": "images/pixel/27-corazon.png",
+    "sha256": "f1a3ce65240f98a53e4a0f8dec6188f817d7fd583e28948eb65d0e13fd0082e4"
+  },
+  {
+    "id": 28,
+    "source": "lasandia.png",
+    "target": "images/pixel/28-sandia.png",
+    "sha256": "643ad6c303f8af2a758c2fd2d649d181882ab262b438c2a52862e449b9b60570"
+  },
+  {
+    "id": 29,
+    "source": "eltambor.png",
+    "target": "images/pixel/29-tambor.png",
+    "sha256": "d87b7ed27282911c7584dfb8d87de706f8375dbd6805d081fe236edadd3cb6a8"
+  },
+  {
+    "id": 30,
+    "source": "elcamaron.png",
+    "target": "images/pixel/30-camaron.png",
+    "sha256": "196ffd59932b8e9098c7636e531e6c627e44b883537118fc733003ec25fbddae"
+  },
+  {
+    "id": 31,
+    "source": "lasjaras.png",
+    "target": "images/pixel/31-jaras.png",
+    "sha256": "e5e8e2e2ee1a677997f869c8e50c76583a76bd5151bfbcd454beba7724ec59db"
+  },
+  {
+    "id": 32,
+    "source": "elmusico.png",
+    "target": "images/pixel/32-musico.png",
+    "sha256": "04cccce3986da1117ee9de84d4012ce16a831de8712851f72a351a3f9a8b8b46"
+  },
+  {
+    "id": 33,
+    "source": "laarana.png",
+    "target": "images/pixel/33-arana.png",
+    "sha256": "4bb720e6bf5f72a654eccf0e9ff30b70ab37479e6ce8b85632de77aa1b94121e"
+  },
+  {
+    "id": 34,
+    "source": "elsoldado.png",
+    "target": "images/pixel/34-soldado.png",
+    "sha256": "059aa8959a7f922c65f2c4575a5db18f7ef7bbae8b9fa1b68c7488cff3a80504"
+  },
+  {
+    "id": 35,
+    "source": "laestrella.png",
+    "target": "images/pixel/35-estrella.png",
+    "sha256": "1d3a9817dc432bd67364fc60a3d2aca474fa8a2ba4c364bb6a6e2b63d1f44cf8"
+  },
+  {
+    "id": 36,
+    "source": "elcaso.png",
+    "target": "images/pixel/36-cazo.png",
+    "sha256": "e12688487b33984fab2563107fa15ae167c8294bc449c0b6c2302c5a11134a92"
+  },
+  {
+    "id": 37,
+    "source": "elmundo.png",
+    "target": "images/pixel/37-mundo.png",
+    "sha256": "e9bcd8001188b8ebf6254e18871324e0ac8251819dbe07358fab4b2f4b119796"
+  },
+  {
+    "id": 38,
+    "source": "elapache.png",
+    "target": "images/pixel/38-apache.png",
+    "sha256": "564344c7cf709c85e61fc914ba8cc985d418f130ba7260bd54b0662b40904b50"
+  },
+  {
+    "id": 39,
+    "source": "elnopal.png",
+    "target": "images/pixel/39-nopal.png",
+    "sha256": "f2712f76e31fac978c5fcd4c3b50d46d186244d8f6a17fdd1a454678a4d3bc41"
+  },
+  {
+    "id": 40,
+    "source": "elalacran.png",
+    "target": "images/pixel/40-alacran.png",
+    "sha256": "bfc341c83b13f4120ed93cf4ad4f20f79c88dc4a5518b16b6883ce6f534cf955"
+  },
+  {
+    "id": 41,
+    "source": "larosa.png",
+    "target": "images/pixel/41-rosa.png",
+    "sha256": "eca3ca222e3341cc959311b77c30adda6e78109b3ec9921f1eac6f49a35723c4"
+  },
+  {
+    "id": 42,
+    "source": "lacalavera.png",
+    "target": "images/pixel/42-calavera.png",
+    "sha256": "2fcb3049ba4e718044f0355291747cb6e720b82c449faec9687cb9e9b8263378"
+  },
+  {
+    "id": 43,
+    "source": "lacampana.png",
+    "target": "images/pixel/43-campana.png",
+    "sha256": "8a27e01153d23de060085b6b633b3a7d8dc0aec7dc574bbe2b8627ac6fb98fff"
+  },
+  {
+    "id": 44,
+    "source": "elcantarito.png",
+    "target": "images/pixel/44-cantarito.png",
+    "sha256": "70024ab50879d650c0a2f2635caca4e964426389385b273b8ac110b06adbe997"
+  },
+  {
+    "id": 45,
+    "source": "elvenado.png",
+    "target": "images/pixel/45-venado.png",
+    "sha256": "700c2dadb86c08599efcf2571219bab9bfd0058b5d07ddc98e12de42a6bb0d08"
+  },
+  {
+    "id": 46,
+    "source": "elsol.png",
+    "target": "images/pixel/46-sol.png",
+    "sha256": "c97f71ef2d48dc853b3ceeee9e89aca4d66ddf2d4f768ce212477a764b1caa85"
+  },
+  {
+    "id": 47,
+    "source": "lacorona.png",
+    "target": "images/pixel/47-corona.png",
+    "sha256": "8c6731f6c608d0cba1841af5a312094366ac11b7c63174efa23a4e8b2a7fc270"
+  },
+  {
+    "id": 48,
+    "source": "lachalupa.png",
+    "target": "images/pixel/48-chalupa.png",
+    "sha256": "25f8d17f496bd6f7ff7e290fdc71bd634122ba542cb23ebe77ac964c222c212f"
+  },
+  {
+    "id": 49,
+    "source": "elpino.png",
+    "target": "images/pixel/49-pino.png",
+    "sha256": "ae3cc60bdb6f204cfd67fab99323a89460b8de6bb4c8732efaed8a2062ea61ab"
+  },
+  {
+    "id": 50,
+    "source": "elpescado.png",
+    "target": "images/pixel/50-pescado.png",
+    "sha256": "b6e1877e1a2ffa730ea09d94301977b8b0c1d94a07884d9bc20f343ed32e4f12"
+  },
+  {
+    "id": 51,
+    "source": "lapalma.png",
+    "target": "images/pixel/51-palma.png",
+    "sha256": "17bd77d40321d9f2f5944d5df3f0eb188ab8bc7c1f805711a8ce294ada74ec38"
+  },
+  {
+    "id": 52,
+    "source": "lamaceta.png",
+    "target": "images/pixel/52-maceta.png",
+    "sha256": "dca38ee5a0cd5aa2f60c742334ed77ce50d33cee253b05c24850b02912766279"
+  },
+  {
+    "id": 53,
+    "source": "elarpa.png",
+    "target": "images/pixel/53-arpa.png",
+    "sha256": "042b464d5a1fb495787b90c32e7b2c66f4db6bb0a7af28f5b4113b55f78d5b45"
+  },
+  {
+    "id": 54,
+    "source": "larana.png",
+    "target": "images/pixel/54-rana.png",
+    "sha256": "97b7b1d21fce5f3e250d1f1fcaf01fbc6b146fecb76ae935fa5713e4f6b39432"
+  }
+]

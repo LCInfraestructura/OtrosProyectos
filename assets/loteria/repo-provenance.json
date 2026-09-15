@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "source": "cartas/1.jpg",
+    "target": "images/traditional/01-gallo.jpg",
+    "sha256": "184e9a4818211d8c6a8e797aba97d6c2c02c8272cad77e58fdd7af8e9895c077"
+  },
+  {
+    "id": 1,
+    "source": "audio/pavel/1.m4a",
+    "target": "audio/repo/01-gallo.m4a",
+    "sha256": "d1539a24e0316902a2b42f5a4299cc9eb9713f1d0810058f09f93889e765c227"
+  },
+  {
+    "id": 2,
+    "source": "cartas/2.jpg",
+    "target": "images/traditional/02-diablito.jpg",
+    "sha256": "cb9d36ca349020a4645f652ff5829b2cb24eacb7936361ed86e14714b5f33ce3"
+  },
+  {
+    "id": 2,
+    "source": "audio/pavel/2.m4a",
+    "target": "audio/repo/02-diablito.m4a",
+    "sha256": "6900e80caf19b03e8126cf237cdafb1532e831376e2802775a64c84515b60f46"
+  },
+  {
+    "id": 3,
+    "source": "cartas/3.jpg",
+    "target": "images/traditional/03-dama.jpg",
+    "sha256": "72209b89f44beace63434d60f762f8b8d35b66f3d566bbbd499332c9b2941d06"
+  },
+  {
+    "id": 3,
+    "source": "audio/pavel/3.m4a",
+    "target": "audio/repo/03-dama.m4a",
+    "sha256": "334c89e535a439929f3f20801db8805f1cd176be8e2fc86d4dc671a128dd73b0"
+  },
+  {
+    "id": 4,
+    "source": "cartas/4.jpg",
+    "target": "images/traditional/04-catrin.jpg",
+    "sha256": "b2b86e04af265cdfd44534fbeca146c4abc252eaa3fe4a82f2c43913c733a11b"
+  },
+  {
+    "id": 4,
+    "source": "audio/pavel/4.m4a",
+    "target": "audio/repo/04-catrin.m4a",
+    "sha256": "f094ec21915eac186f802ea20620fd44cfa10bcc07db7aefa28742500a4c12de"
+  },
+  {
+    "id": 5,
+    "source": "cartas/5.jpg",
+    "target": "images/traditional/05-paraguas.jpg",
+    "sha256": "f7e076a5767a8e3963f21b9fad62b6d1a6474e0e2eaefa71ac56c57af33dec1a"
+  },
+  {
+    "id": 5,
+    "source": "audio/pavel/5.m4a",
+    "target": "audio/repo/05-paraguas.m4a",
+    "sha256": "1c3ec4e18a0a8a5ada6dba579d0a4153cb33b77d6315dd36f61ff20d6a1d4105"
+  },
+  {
+    "id": 6,
+    "source": "cartas/6.jpg",
+    "target": "images/traditional/06-sirena.jpg",
+    "sha256": "a5c6471b13498cfd0fc9550f7673ed25c812ffef551fa25ab42ecd566c159116"
+  },
+  {
+    "id": 6,
+    "source": "audio/pavel/6.m4a",
+    "target": "audio/repo/06-sirena.m4a",
+    "sha256": "64d0070230b94a4594bbed8fc770baffecec9fe3768442f63e8403d2387fb1be"
+  },
+  {
+    "id": 7,
+    "source": "cartas/7.jpg",
+    "target": "images/traditional/07-escalera.jpg",
+    "sha256": "c288f77488529f7fc5809e93528d1f6417611ea9982f69dc0ee4ce979893438f"
+  },
+  {
+    "id": 7,
+    "source": "audio/pavel/7.m4a",
+    "target": "audio/repo/07-escalera.m4a",
+    "sha256": "c66baefddcfd27d21d621958ac50ff323e965de8c15c849c6e86aa45f06b2a1a"
+  },
+  {
+    "id": 8,
+    "source": "cartas/8.jpg",
+    "target": "images/traditional/08-botella.jpg",
+    "sha256": "7439bdb08c9b7543570d3b73e83ce5c40f55c6d6b35d2bf5f6bbc42929b26eda"
+  },
+  {
+    "id": 8,
+    "source": "audio/pavel/8.m4a",
+    "target": "audio/repo/08-botella.m4a",
+    "sha256": "4514b7c22d3c016cbd58d45921343c7d36cdcfdbe11ca3d431416b038de20922"
+  },
+  {
+    "id": 9,
+    "source": "cartas/9.jpg",
+    "target": "images/traditional/09-barril.jpg",
+    "sha256": "59e89d7f3938ec460672d378dd8f82503981734fd9dc14fbd73a2aacbd8ec847"
+  },
+  {
+    "id": 9,
+    "source": "audio/pavel/9.m4a",
+    "target": "audio/repo/09-barril.m4a",
+    "sha256": "d717895ee9121de3620431dda2fb36c95891a80bd30b2c49bee1c5bde99ca02b"
+  },
+  {
+    "id": 10,
+    "source": "cartas/10.jpg",
+    "target": "images/traditional/10-arbol.jpg",
+    "sha256": "fd0fa2d64a25649f6a0b2e448e7f1ea9dc9ca3c9f112a8f083290269c1ebe861"
+  },
+  {
+    "id": 10,
+    "source": "audio/pavel/10.m4a",
+    "target": "audio/repo/10-arbol.m4a",
+    "sha256": "fbc7095d25cd873bb259e4c773b609fa40083bb9429e7d5c727545b2481fa341"
+  },
+  {
+    "id": 11,
+    "source": "cartas/11.jpg",
+    "target": "images/traditional/11-melon.jpg",
+    "sha256": "b43f44504b684e545c3497bcd384b4ecc0c601af088940609fe237902456ce99"
+  },
+  {
+    "id": 11,
+    "source": "audio/pavel/11.m4a",
+    "target": "audio/repo/11-melon.m4a",
+    "sha256": "5f7c88e7ff73f9c4571002377507f11170dbc4a0ef203672c56d6399e8473b6a"
+  },
+  {
+    "id": 12,
+    "source": "cartas/12.jpg",
+    "target": "images/traditional/12-valiente.jpg",
+    "sha256": "0b3b0c0f91ed384c6854cb869c8982197f8f3895744dcbe9ff1ae85c2f8b0f41"
+  },
+  {
+    "id": 12,
+    "source": "audio/pavel/12.m4a",
+    "target": "audio/repo/12-valiente.m4a",
+    "sha256": "2f9c1386cebb1aa43d61f6b9d6f1ffa3ffa2e1632d316e1b676783f26da69960"
+  },
+  {
+    "id": 13,
+    "source": "cartas/13.jpg",
+    "target": "images/traditional/13-gorrito.jpg",
+    "sha256": "b75b46888f32bf5625922901e19947fcdc34ca818e2931a14764b4a031975172"
+  },
+  {
+    "id": 13,
+    "source": "audio/pavel/13.m4a",
+    "target": "audio/repo/13-gorrito.m4a",
+    "sha256": "23edeb0e8dbb0fa735a6159c1627702e9ccbc8e5bd78407d5b037831527bedb0"
+  },
+  {
+    "id": 14,
+    "source": "cartas/14.jpg",
+    "target": "images/traditional/14-muerte.jpg",
+    "sha256": "569bde0249969880f39f9abf5963ba60ced98ffbe3f8ae4d2033d406d6ed7033"
+  },
+  {
+    "id": 14,
+    "source": "audio/pavel/14.m4a",
+    "target": "audio/repo/14-muerte.m4a",
+    "sha256": "528236007091cbaa851be017f21805a52cf85864e11c696af73b74308fae1df1"
+  },
+  {
+    "id": 15,
+    "source": "cartas/15.jpg",
+    "target": "images/traditional/15-pera.jpg",
+    "sha256": "037ab91c59254a4a46456579c8cf0faaa749ac3e0f505c71e3ecbff8e165453e"
+  },
+  {
+    "id": 15,
+    "source": "audio/pavel/15.m4a",
+    "target": "audio/repo/15-pera.m4a",
+    "sha256": "bcb88e8c636a0606e33458424f478fcaa6c16255104ca95a3e0550551c688046"
+  },
+  {
+    "id": 16,
+    "source": "cartas/16.jpg",
+    "target": "images/traditional/16-bandera.jpg",
+    "sha256": "932ada221c5679cf50a992f9b3e6834b34c0a1530d396daac51aaaa284a67e6d"
+  },
+  {
+    "id": 16,
+    "source": "audio/pavel/16.m4a",
+    "target": "audio/repo/16-bandera.m4a",
+    "sha256": "7aef9aef7aa908581bace330eb346d4007664b83bc426c4649736e5809a63a7d"
+  },
+  {
+    "id": 17,
+    "source": "cartas/17.jpg",
+    "target": "images/traditional/17-bandolon.jpg",
+    "sha256": "ee7dff18af46dcf2c3cfbab578b72896121e8265f354575ab78e1cabe7794f83"
+  },
+  {
+    "id": 17,
+    "source": "audio/pavel/17.m4a",
+    "target": "audio/repo/17-bandolon.m4a",
+    "sha256": "ffcae23afc8c796a602bb01f6e3b1ae5a01a49b78ded9b986012d0c43d31d51f"
+  },
+  {
+    "id": 18,
+    "source": "cartas/18.jpg",
+    "target": "images/traditional/18-violoncello.jpg",
+    "sha256": "0b6ef45b984c95fafeb4576a36924c96dcc6f86a4eeb774e04d123131dc439ab"
+  },
+  {
+    "id": 18,
+    "source": "audio/pavel/18.m4a",
+    "target": "audio/repo/18-violoncello.m4a",
+    "sha256": "a79a61a91800d2964c61015c7de247f27d95d0677696baa0f9f99f614de77d35"
+  },
+  {
+    "id": 19,
+    "source": "cartas/19.jpg",
+    "target": "images/traditional/19-garza.jpg",
+    "sha256": "6d835cec7f03f4a911eaacf20d7e81d61cccd6a92ed574f4d5d5bd04963c8b23"
+  },
+  {
+    "id": 19,
+    "source": "audio/pavel/19.m4a",
+    "target": "audio/repo/19-garza.m4a",
+    "sha256": "729c42491ad86b1cf5bf254296b9a50e18e1adc7f1f6d1f531000039a550f502"
+  },
+  {
+    "id": 20,
+    "source": "cartas/20.jpg",
+    "target": "images/traditional/20-pajaro.jpg",
+    "sha256": "f42eeb88d4aed608da1cc13cde9300bbba7d05784ed0fafa31d67f466ee84b8a"
+  },
+  {
+    "id": 20,
+    "source": "audio/pavel/20.m4a",
+    "target": "audio/repo/20-pajaro.m4a",
+    "sha256": "f8ec44ef516e2a577a9bf03f869bc3c07b82f8dc10821dbc3f7dfab1980bb4b1"
+  },
+  {
+    "id": 21,
+    "source": "cartas/21.jpg",
+    "target": "images/traditional/21-mano.jpg",
+    "sha256": "482738b1af31089fbbca12d3a6b86f8cf33d4fb3b96042daa9d627f0138eb617"
+  },
+  {
+    "id": 21,
+    "source": "audio/pavel/21.m4a",
+    "target": "audio/repo/21-mano.m4a",
+    "sha256": "9f03ccc7dbef05e275c67ff5292db97d14b4220988b93fedb6915d81286f7695"
+  },
+  {
+    "id": 22,
+    "source": "cartas/22.jpg",
+    "target": "images/traditional/22-bota.jpg",
+    "sha256": "3dcc623f9ce6ea36fd5d20b1e567752f8cec26ab9cb062256d7d266508bf9962"
+  },
+  {
+    "id": 22,
+    "source": "audio/pavel/22.m4a",
+    "target": "audio/repo/22-bota.m4a",
+    "sha256": "9682718c7c8d1ebbf1754b5c5ddfca08f8eb34ae1fe5caed87aae7ab21462f8d"
+  },
+  {
+    "id": 23,
+    "source": "cartas/23.jpg",
+    "target": "images/traditional/23-luna.jpg",
+    "sha256": "7f7e248a80280db6a7b73094bfc82830f3ca555cee71a69a51b1c47766161f95"
+  },
+  {
+    "id": 23,
+    "source": "audio/pavel/23.m4a",
+    "target": "audio/repo/23-luna.m4a",
+    "sha256": "0256c0f0846efaec81b8a2a2bd62849ccc79dbbd38ede0aeadaf79cdec37207e"
+  },
+  {
+    "id": 24,
+    "source": "cartas/24.jpg",
+    "target": "images/traditional/24-cotorro.jpg",
+    "sha256": "bd6eec316e93f8f09e1af676bbd6aeb8bf52b6c2150b90292c2b0f56a5b123bb"
+  },
+  {
+    "id": 24,
+    "source": "audio/pavel/24.m4a",
+    "target": "audio/repo/24-cotorro.m4a",
+    "sha256": "1da7db2a4b47d19d0c1ca3a070f9f1bff3eeb303357f736d54286af1bab80a57"
+  },
+  {
+    "id": 25,
+    "source": "cartas/25.jpg",
+    "target": "images/traditional/25-borracho.jpg",
+    "sha256": "4ce7944841b72df14fac8a5905bfb09057513665e8a8dee3c29e71064b28911e"
+  },
+  {
+    "id": 25,
+    "source": "audio/pavel/25.m4a",
+    "target": "audio/repo/25-borracho.m4a",
+    "sha256": "5cff93518da7aa2f97e8490f8215b14f3a5af4f37d8313d06b1018c795ef8bed"
+  },
+  {
+    "id": 26,
+    "source": "cartas/26.jpg",
+    "target": "images/traditional/26-negrito.jpg",
+    "sha256": "2b6ae06f6ef2d92f8e994bae3316fec92108c8ae4ff1625c33092af0af4499b4"
+  },
+  {
+    "id": 26,
+    "source": "audio/pavel/26.m4a",
+    "target": "audio/repo/26-negrito.m4a",
+    "sha256": "db5a11b0f8adf1ade1810740dffdd9fbc259d6e4667354f9a6a38869f1ea6661"
+  },
+  {
+    "id": 27,
+    "source": "cartas/27.jpg",
+    "target": "images/traditional/27-corazon.jpg",
+    "sha256": "f31f8e33839172b333c70fbfe5aa560329c6d972d7f66510d69335e74fedff45"
+  },
+  {
+    "id": 27,
+    "source": "audio/pavel/27.m4a",
+    "target": "audio/repo/27-corazon.m4a",
+    "sha256": "c28006cdd33bced45251b4e504e4018f6ed5994890418e52bf1e129593f2429b"
+  },
+  {
+    "id": 28,
+    "source": "cartas/28.jpg",
+    "target": "images/traditional/28-sandia.jpg",
+    "sha256": "dda16042c763fab8ff4a24efe7a5b7fdc7ef8a68d6180dbe4c8359d0c52fc69a"
+  },
+  {
+    "id": 28,
+    "source": "audio/pavel/28.m4a",
+    "target": "audio/repo/28-sandia.m4a",
+    "sha256": "8e9c9739a2dc688a591cb267ed622767d8f15b18de7773bda7f41428678e0315"
+  },
+  {
+    "id": 29,
+    "source": "cartas/29.jpg",
+    "target": "images/traditional/29-tambor.jpg",
+    "sha256": "21eda8807a49bc8e35287bbabde9d122c68e6c143593910a7199cc4bdbb946bd"
+  },
+  {
+    "id": 29,
+    "source": "audio/pavel/29.m4a",
+    "target": "audio/repo/29-tambor.m4a",
+    "sha256": "808057747433a3452cc83fda07aa9178a54795835dcabf800500502e94256002"
+  },
+  {
+    "id": 30,
+    "source": "cartas/30.jpg",
+    "target": "images/traditional/30-camaron.jpg",
+    "sha256": "7a67d7762cca2c77d344892216448eafd9b80783e5ca37e3f0b23d45d1ef48bb"
+  },
+  {
+    "id": 30,
+    "source": "audio/pavel/30.m4a",
+    "target": "audio/repo/30-camaron.m4a",
+    "sha256": "96bb7fc293233407576ee1a1ddccbd6febe412fded24d346009927756311a750"
+  },
+  {
+    "id": 31,
+    "source": "cartas/31.jpg",
+    "target": "images/traditional/31-jaras.jpg",
+    "sha256": "efd1cdff658b60c9a3464cdeb36d797e8eda8d5dd9bf9d2d0ddd5e1371559f9a"
+  },
+  {
+    "id": 31,
+    "source": "audio/pavel/31.m4a",
+    "target": "audio/repo/31-jaras.m4a",
+    "sha256": "aff46d9aa6f1fa867d5fd13a98fdeed4efc4371253870adf96ce614d4f8a70c0"
+  },
+  {
+    "id": 32,
+    "source": "cartas/32.jpg",
+    "target": "images/traditional/32-musico.jpg",
+    "sha256": "2e585e4d1ac5b81c49c637547bdbf5e1de29c71adc28e78c5b7a1ed3774e0199"
+  },
+  {
+    "id": 32,
+    "source": "audio/pavel/32.m4a",
+    "target": "audio/repo/32-musico.m4a",
+    "sha256": "294223f51629a3a1334c0ed2b9c535ea29a38ec03e2927d6169a3ed42b251805"
+  },
+  {
+    "id": 33,
+    "source": "cartas/33.jpg",
+    "target": "images/traditional/33-arana.jpg",
+    "sha256": "7e2208e60d83cf21170b8ae3a63c2917c918c03b7e5bbd6ff93e05024a29f1af"
+  },
+  {
+    "id": 33,
+    "source": "audio/pavel/33.m4a",
+    "target": "audio/repo/33-arana.m4a",
+    "sha256": "3971c2a3ac2cc2f897694955781ff0b70f83e43f11547494b8740879761658db"
+  },
+  {
+    "id": 34,
+    "source": "cartas/34.jpg",
+    "target": "images/traditional/34-soldado.jpg",
+    "sha256": "97981597154d17ce15bb210648c9bc7335effb766d6c5155b0fa04b1b44dd965"
+  },
+  {
+    "id": 34,
+    "source": "audio/pavel/34.m4a",
+    "target": "audio/repo/34-soldado.m4a",
+    "sha256": "1b47012223fa0c28542d0fe502793da7e6be4b7a97bc806701dc33127167bee8"
+  },
+  {
+    "id": 35,
+    "source": "cartas/35.jpg",
+    "target": "images/traditional/35-estrella.jpg",
+    "sha256": "d8d991843c130d00c9f444908f755370913da09a9e87dc78ac045aa62c07d810"
+  },
+  {
+    "id": 35,
+    "source": "audio/pavel/35.m4a",
+    "target": "audio/repo/35-estrella.m4a",
+    "sha256": "b619897007fccfcb5f99dc07ee3ae2440150fd2dd4d16dddc752cae835cd35b8"
+  },
+  {
+    "id": 36,
+    "source": "cartas/36.jpg",
+    "target": "images/traditional/36-cazo.jpg",
+    "sha256": "1c1f60018664b7852ae4604d685853005a3097ede704b42460c78bf18790a4bd"
+  },
+  {
+    "id": 36,
+    "source": "audio/pavel/36.m4a",
+    "target": "audio/repo/36-cazo.m4a",
+    "sha256": "3df4df34a4cb917c6b38ed7059fca41de3ab171d50160762b674347cacce5491"
+  },
+  {
+    "id": 37,
+    "source": "cartas/37.jpg",
+    "target": "images/traditional/37-mundo.jpg",
+    "sha256": "20974957460da56018b23ee17d2cd83b26836da845212cbf44312559f80f8ab1"
+  },
+  {
+    "id": 37,
+    "source": "audio/pavel/37.m4a",
+    "target": "audio/repo/37-mundo.m4a",
+    "sha256": "1c0dbfdce7cf5fcd0a0e3ecd486726412125c638de60d9061822ca74238c2c87"
+  },
+  {
+    "id": 38,
+    "source": "cartas/38.jpg",
+    "target": "images/traditional/38-apache.jpg",
+    "sha256": "5550ef86be3338ca0cd27063a5197b045c41c99affaf0451f1aa4a43c3cb0b2e"
+  },
+  {
+    "id": 38,
+    "source": "audio/pavel/38.m4a",
+    "target": "audio/repo/38-apache.m4a",
+    "sha256": "b7263eebea22b1e40f827c8744acb478f90f0c6792bec700a6c8a6253aa212a1"
+  },
+  {
+    "id": 39,
+    "source": "cartas/39.jpg",
+    "target": "images/traditional/39-nopal.jpg",
+    "sha256": "2e5e3ff73e0a1320ef593cdc72794ee0847a20e2cadd793bf8b319113c3d781c"
+  },
+  {
+    "id": 39,
+    "source": "audio/pavel/39.m4a",
+    "target": "audio/repo/39-nopal.m4a",
+    "sha256": "b08e7e40b46b3a20fa02d409ecec2a74648a0d7fc0f2a72bde98fc817c3aaeda"
+  },
+  {
+    "id": 40,
+    "source": "cartas/40.jpg",
+    "target": "images/traditional/40-alacran.jpg",
+    "sha256": "8fbb10a89ee86adc404ad03c9feb22808774aa1906637f6bf1662e6064ab8eb6"
+  },
+  {
+    "id": 40,
+    "source": "audio/pavel/40.m4a",
+    "target": "audio/repo/40-alacran.m4a",
+    "sha256": "fd902ea9cdf100e5f5a767b7a8c452bd55010d7e0996177ceb85a30b08d37c0e"
+  },
+  {
+    "id": 41,
+    "source": "cartas/41.jpg",
+    "target": "images/traditional/41-rosa.jpg",
+    "sha256": "c051784c0b96deaacacfc3305475dbe7638447270ebdaca65c53ee98e41fa86a"
+  },
+  {
+    "id": 41,
+    "source": "audio/pavel/41.m4a",
+    "target": "audio/repo/41-rosa.m4a",
+    "sha256": "89c698964324f53f8156802166e8ce6d05c49074c606ed123068046d9ca6a905"
+  },
+  {
+    "id": 42,
+    "source": "cartas/42.jpg",
+    "target": "images/traditional/42-calavera.jpg",
+    "sha256": "d1ee06d435b226cb0a31882da293b08cc53f8bb6bbbd1bb6ba38d4bb7c4fd408"
+  },
+  {
+    "id": 42,
+    "source": "audio/pavel/42.m4a",
+    "target": "audio/repo/42-calavera.m4a",
+    "sha256": "f78ad248e5b871897b97878d86abc2e73519d4eac4365c1b29f491b42d529437"
+  },
+  {
+    "id": 43,
+    "source": "cartas/43.jpg",
+    "target": "images/traditional/43-campana.jpg",
+    "sha256": "c47ff6a4183451a360c4f842932fce3e5d218392c1da66bb10c929276c9113d6"
+  },
+  {
+    "id": 43,
+    "source": "audio/pavel/43.m4a",
+    "target": "audio/repo/43-campana.m4a",
+    "sha256": "3d9d7edfd9e38f5a9a72c01397a065f37255b85e006c52499da9bc41430e9700"
+  },
+  {
+    "id": 44,
+    "source": "cartas/44.jpg",
+    "target": "images/traditional/44-cantarito.jpg",
+    "sha256": "da2612abf711f9859063ec20cacb621a8e4e6fac582356092ee36cee5b3a287f"
+  },
+  {
+    "id": 44,
+    "source": "audio/pavel/44.m4a",
+    "target": "audio/repo/44-cantarito.m4a",
+    "sha256": "307806feb66b024c8a91816a9276fb1999919b52409d7be4c6cfe60afa46de34"
+  },
+  {
+    "id": 45,
+    "source": "cartas/45.jpg",
+    "target": "images/traditional/45-venado.jpg",
+    "sha256": "887d87c424b971efbeb93ae2987f45251b179298d391f459267c7609d8d08a9f"
+  },
+  {
+    "id": 45,
+    "source": "audio/pavel/45.m4a",
+    "target": "audio/repo/45-venado.m4a",
+    "sha256": "affeaf56cb402f5b676527713c825d521c96212d78e85be262266df57ffefdf5"
+  },
+  {
+    "id": 46,
+    "source": "cartas/46.jpg",
+    "target": "images/traditional/46-sol.jpg",
+    "sha256": "b8adf68104f51fc08a1d0c8fce956a4b4e6ea64caaac5d0e245390c231402e26"
+  },
+  {
+    "id": 46,
+    "source": "audio/pavel/46.m4a",
+    "target": "audio/repo/46-sol.m4a",
+    "sha256": "2cd995483609fa62ac841828c145ec8092816a6270b50fa1fe8dfc06a7614b17"
+  },
+  {
+    "id": 47,
+    "source": "cartas/47.jpg",
+    "target": "images/traditional/47-corona.jpg",
+    "sha256": "8863e033aabd2d2d10ce4b0588a6708ea81e34b37691bd4077873ac3a8f06bfd"
+  },
+  {
+    "id": 47,
+    "source": "audio/pavel/47.m4a",
+    "target": "audio/repo/47-corona.m4a",
+    "sha256": "149d3fd30da1a598c69d950ea56cbf4af77d8380ecd0c3504ddfa011a3cc77ae"
+  },
+  {
+    "id": 48,
+    "source": "cartas/48.jpg",
+    "target": "images/traditional/48-chalupa.jpg",
+    "sha256": "edd2dbec74feaa13182eef1c029f1dd81b9fa3ff3790543cf8609ec70f143dc0"
+  },
+  {
+    "id": 48,
+    "source": "audio/pavel/48.m4a",
+    "target": "audio/repo/48-chalupa.m4a",
+    "sha256": "6178476f1b966bae3ca94c500a63c0672fe41a19b0ce3093edd4441ed3568822"
+  },
+  {
+    "id": 49,
+    "source": "cartas/49.jpg",
+    "target": "images/traditional/49-pino.jpg",
+    "sha256": "ea290ce124881c79fb9986f21e671db6f45baaf0b0b88704987cc4a4894f2341"
+  },
+  {
+    "id": 49,
+    "source": "audio/pavel/49.m4a",
+    "target": "audio/repo/49-pino.m4a",
+    "sha256": "f675d15e2daae273ec5c0fafcb04de0d401854f924201e8341de27f2471d3462"
+  },
+  {
+    "id": 50,
+    "source": "cartas/50.jpg",
+    "target": "images/traditional/50-pescado.jpg",
+    "sha256": "ba1879e0f1dd7c6fcfe5dd07826a4d19b7cc7a2267d7e9a0d3c223ebe4fe667d"
+  },
+  {
+    "id": 50,
+    "source": "audio/pavel/50.m4a",
+    "target": "audio/repo/50-pescado.m4a",
+    "sha256": "15e55c4a7161efc63ff698cc6b155ec3902a8a33839adcb48e0a3820632ec638"
+  },
+  {
+    "id": 51,
+    "source": "cartas/51.jpg",
+    "target": "images/traditional/51-palma.jpg",
+    "sha256": "d7556fb7bd98f310ce775fe6e3948f39be3feb69561b2a51a9deb7fe4626692d"
+  },
+  {
+    "id": 51,
+    "source": "audio/pavel/51.m4a",
+    "target": "audio/repo/51-palma.m4a",
+    "sha256": "2d70dca9f42df8569e4a066038a7c0061523ec57c8fbfef1b647480525443e77"
+  },
+  {
+    "id": 52,
+    "source": "cartas/52.jpg",
+    "target": "images/traditional/52-maceta.jpg",
+    "sha256": "7f4285366f1961c0b1e936d29623e9cbae72070acf5ea1331633dd93645731f1"
+  },
+  {
+    "id": 52,
+    "source": "audio/pavel/52.m4a",
+    "target": "audio/repo/52-maceta.m4a",
+    "sha256": "b81f53ca86cfb6655cae140a41dcec920919dad6d12d5f226d3c52e82d133bc4"
+  },
+  {
+    "id": 53,
+    "source": "cartas/53.jpg",
+    "target": "images/traditional/53-arpa.jpg",
+    "sha256": "9a0230b99180f2795c99d77bb81a37d2b8fae8b2f806ca06356f4bce8f1628ef"
+  },
+  {
+    "id": 53,
+    "source": "audio/pavel/53.m4a",
+    "target": "audio/repo/53-arpa.m4a",
+    "sha256": "e1aaa84d4b05821804c85c86f6d97d0de374d80d9d250e633b1028c7e2300298"
+  },
+  {
+    "id": 54,
+    "source": "cartas/54.jpg",
+    "target": "images/traditional/54-rana.jpg",
+    "sha256": "1329417c26eba8f56e962d9270d4cdd42ab74b87e772040dc950f9d06363b0ef"
+  },
+  {
+    "id": 54,
+    "source": "audio/pavel/54.m4a",
+    "target": "audio/repo/54-rana.m4a",
+    "sha256": "ebeb073407701282e6ae622ca2b27e5fe74c5b288ac32916a64a1f9e5923ea27"
+  }
+]

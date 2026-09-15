@@ -1,0 +1,53 @@
+<Window x:Class="Loteria.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="La Lotería LC" Width="1280" Height="850" MinWidth="950" MinHeight="650" Background="#F4F0E8" Foreground="#273B36" FontFamily="Segoe UI" WindowStartupLocation="CenterScreen" KeyDown="OnKeyDown">
+ <Grid Margin="32,24,32,22">
+  <Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="*"/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
+  <Grid Margin="0,0,0,24"><Grid.ColumnDefinitions><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+   <StackPanel Orientation="Horizontal" VerticalAlignment="Center"><Image x:Name="BrandLogo" Width="56" Height="56" Stretch="Uniform" Margin="0,0,14,0" AutomationProperties.Name="Logo LC"/><TextBlock Text="LA LOTERÍA LC" FontFamily="Georgia" FontSize="36" FontWeight="Bold" VerticalAlignment="Center"/></StackPanel>
+   <StackPanel Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Center"><Button Content="⛶  Pantalla completa" ToolTip="F11 · Esc para salir" Click="FullScreen" Background="Transparent" Margin="0,0,10,0"/><Button x:Name="SettingsButton" Content="⚙  Configuración" Click="OpenSettings" Background="White"/></StackPanel>
+  </Grid>
+  <Grid Grid.Row="1"><Grid.ColumnDefinitions><ColumnDefinition Width="1.5*"/><ColumnDefinition Width="24"/><ColumnDefinition Width="*"/></Grid.ColumnDefinitions>
+   <Border CornerRadius="24" Background="#DFE7DE" BorderBrush="#D2DDCF" BorderThickness="1" Padding="24,18,24,20">
+    <Grid><Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="*"/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
+     <Grid><TextBlock Text="LA CARTA EN JUEGO" FontSize="11" FontWeight="Bold" Foreground="#66786B" VerticalAlignment="Center"/><Border HorizontalAlignment="Right" Background="#F5F7EF" CornerRadius="12" Padding="12,6"><TextBlock x:Name="Counter" Text="54 cartas" FontSize="12" FontWeight="SemiBold" Foreground="#415C4B"/></Border></Grid>
+     <Grid Grid.Row="1" Margin="0,18,0,16">
+      <StackPanel x:Name="EmptyStage" HorizontalAlignment="Center" VerticalAlignment="Center">
+       <Border Width="185" Height="235" CornerRadius="16" BorderBrush="#849C85" BorderThickness="1" Background="#EAF0E3" RenderTransformOrigin="0.5,0.5"><Border.RenderTransform><RotateTransform Angle="-7"/></Border.RenderTransform><Border Margin="12" CornerRadius="10" BorderBrush="#AFBDA6" BorderThickness="1"><StackPanel VerticalAlignment="Center"><TextBlock Text="✦" FontSize="34" Foreground="#B55339" HorizontalAlignment="Center"/><TextBlock Text="54" FontFamily="Georgia" FontSize="76" Foreground="#385D48" HorizontalAlignment="Center"/><TextBlock Text="POSIBILIDADES" FontSize="10" FontWeight="Bold" Foreground="#66786B" HorizontalAlignment="Center" Margin="0,8,0,0"/></StackPanel></Border></Border>
+      </StackPanel>
+      <Image x:Name="CurrentImage" Stretch="Uniform"><Image.Effect><DropShadowEffect BlurRadius="22" ShadowDepth="5" Opacity="0.18" Color="#273B36"/></Image.Effect></Image>
+     </Grid>
+     <StackPanel Grid.Row="2"><TextBlock x:Name="CurrentTitle" Text="Que comience la suerte." TextWrapping="Wrap" TextAlignment="Center" FontFamily="Georgia" FontSize="32" Foreground="#273F32"/><TextBlock x:Name="CardHint" Text="Pulsa Iniciar y reúne a la mesa." HorizontalAlignment="Center" FontSize="13" Foreground="#66786B" Margin="0,8,0,0"/></StackPanel>
+    </Grid>
+   </Border>
+   <Grid Grid.Column="2"><Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="*"/></Grid.RowDefinitions>
+    <Grid Margin="0,4,0,16"><StackPanel><TextBlock Text="Ya salieron" FontFamily="Georgia" FontSize="26"/><TextBlock Text="La más reciente aparece primero" Foreground="#84857C" FontSize="12" Margin="0,5,0,0"/></StackPanel><Border HorizontalAlignment="Right" VerticalAlignment="Top" Background="#E8E2D7" CornerRadius="14" Padding="12,6"><TextBlock x:Name="HistoryCount" Text="0 / 54" FontWeight="SemiBold" FontSize="12"/></Border></Grid>
+    <Grid Grid.Row="1">
+     <Border x:Name="EmptyHistory" CornerRadius="18" BorderBrush="#DDD7CA" BorderThickness="1" Padding="26"><StackPanel VerticalAlignment="Center"><TextBlock Text="✧" HorizontalAlignment="Center" Foreground="#B6A890" FontSize="50"/><TextBlock Text="La mesa está lista" TextAlignment="Center" FontFamily="Georgia" FontSize="22" Margin="0,12,0,10"/><TextBlock Text="Aquí encontrarás cada carta&#10;que vaya saliendo." TextAlignment="Center" Foreground="#84857C" FontSize="14" LineHeight="23"/></StackPanel></Border>
+     <ScrollViewer x:Name="HistoryScroll" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled"><ItemsControl x:Name="History">
+      <ItemsControl.ItemsPanel><ItemsPanelTemplate><WrapPanel/></ItemsPanelTemplate></ItemsControl.ItemsPanel>
+      <ItemsControl.ItemTemplate><DataTemplate><Border Width="124" Background="#FFFDFA" BorderBrush="#E2DCCE" BorderThickness="1" CornerRadius="12" Margin="0,0,10,12" Padding="9"><StackPanel><Image Source="{Binding Image}" Height="120" Stretch="Uniform" RenderOptions.BitmapScalingMode="{Binding Scaling}"/><TextBlock Text="{Binding Caption}" Foreground="#38473D" TextWrapping="Wrap" TextAlignment="Center" Margin="0,9,0,1" FontSize="12" FontWeight="SemiBold" MinHeight="30"/></StackPanel></Border></DataTemplate></ItemsControl.ItemTemplate>
+     </ItemsControl></ScrollViewer>
+    </Grid>
+   </Grid>
+  </Grid>
+  <Border Grid.Row="2" Background="#FFFDFA" BorderBrush="#E2DCCE" BorderThickness="1" CornerRadius="18" Padding="16" Margin="0,20,0,0">
+   <Grid><Grid.ColumnDefinitions><ColumnDefinition Width="Auto"/><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+    <StackPanel Orientation="Horizontal"><Button x:Name="StartButton" Content="Iniciar" MinWidth="116" Click="StartPause" Background="#B55339" BorderBrush="#B55339" Foreground="White" Margin="0,0,10,0"/><Button x:Name="NextButton" Content="Siguiente →" Click="Next" Background="#F0EDE5"/></StackPanel>
+    <TextBlock x:Name="Status" Grid.Column="1" VerticalAlignment="Center" FontSize="13" Foreground="#737C71" Text="Preparando baraja…" TextWrapping="Wrap" Margin="18,0"/>
+    <Button Grid.Column="2" Content="Nueva partida" Click="NewGame" Background="Transparent" BorderBrush="Transparent" Foreground="#657164"/>
+   </Grid>
+  </Border>
+  <Border x:Name="SettingsHost" Visibility="Collapsed">
+   <StackPanel x:Name="SettingsPanel" Margin="28,12,28,24">
+    <TextBlock Text="RITMO DE LA PARTIDA" Foreground="#B55339" FontWeight="Bold" FontSize="11" Margin="0,0,0,12"/>
+    <TextBlock Text="Espera después de la voz" FontSize="16" Margin="0,0,0,8"/>
+    <DockPanel><TextBox x:Name="DelayInput" Text="3" Width="90" HorizontalAlignment="Left"/><TextBlock Text="segundos" VerticalAlignment="Center" Margin="12,0,0,0"/></DockPanel>
+    <TextBlock Text="Giro → voz completa → espera → siguiente carta" Foreground="#7B8077" FontSize="12" Margin="0,10,0,24"/>
+    <TextBlock Text="BARAJA Y SONIDO" Foreground="#B55339" FontWeight="Bold" FontSize="11" Margin="0,0,0,12"/>
+    <TextBlock Text="Ilustraciones" Margin="0,0,0,6"/><ComboBox x:Name="ImageSet" SelectedIndex="0" Margin="0,0,0,16"><ComboBoxItem Content="Pixel Art" Tag="pixel"/><ComboBoxItem Content="Tradicional" Tag="traditional"/></ComboBox>
+    <TextBlock Text="Voz" Margin="0,0,0,6"/><ComboBox x:Name="AudioSet" SelectedIndex="2" Margin="0,0,0,18"><ComboBoxItem Content="Radioteca (pendiente de descarga)" Tag="radioteca"/><ComboBoxItem Content="Voz original" Tag="repo"/><ComboBoxItem Content="LoteriaCard" Tag="loteriacard"/></ComboBox>
+    <CheckBox x:Name="FlipEnabled" Content="Sonido de giro de carta" IsChecked="True" Margin="0,0,0,14"/><CheckBox x:Name="Muted" Content="Jugar sin audio" Margin="0,0,0,20"/>
+    <TextBlock Text="Volumen" Margin="0,0,0,8"/><Slider x:Name="Volume" Minimum="0" Maximum="1" Value="0.8"/>
+   </StackPanel>
+  </Border>
+ </Grid>
+</Window>
