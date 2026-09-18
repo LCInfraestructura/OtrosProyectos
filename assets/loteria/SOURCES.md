@@ -31,7 +31,8 @@ Aplicación interna y no comercial para jugar en una oficina. El propietario del
 - Fuente: https://www.loteriacaller.com/
 - El sitio identifica las grabaciones como pregeneradas con Amazon Polly; no se infiere el nombre del locutor.
 - Tres conjuntos: `generated-es` (nombre en español), `generated-en` (nombre en inglés), `generated-verses-es` (dicho en español).
-- 54 pistas clásicas por conjunto, vinculadas por número al catálogo fuente. MP3 originales sin modificación de velocidad ni normalización.
+- 54 pistas clásicas por conjunto, vinculadas por número al catálogo fuente. Los MP3 originales se conservan en `assets/audio-packs/loteriacaller/`. Las copias de reproducción son WAV PCM mono, 48 kHz, 16 bits, con 500 ms de silencio inicial para dar margen a la activación de salidas Bluetooth. No se aplican cambios de tempo, tono, volumen ni recortes del habla.
+- Procesamiento reproducible: `scripts/prepare-generated-playback.py`. La comparación de samples verifica que después del silencio esté exactamente la señal original decodificada y remuestreada. La utilidad del margen de silencio debe confirmarse en los audífonos del usuario.
 - `generated-provenance.json` registra URL original, ID, ruta integrada y SHA-256. Procedencia completa: `../audio-packs/loteriacaller/SOURCES.md`.
 - Radioteca se retiró por solicitud del propietario; nunca se obtuvieron sus grabaciones.
 

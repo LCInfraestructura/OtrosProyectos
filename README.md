@@ -2,11 +2,25 @@
 
 ## Voces generadas
 
+Para reducir la pérdida del inicio de frases al activar una salida Bluetooth, las voces generadas se reproducen desde copias WAV PCM mono de 48 kHz y 16 bits con 500 ms de silencio inicial. No se ralentiza la locución ni se cambia su tono. Los MP3 originales permanecen en `assets/audio-packs/loteriacaller/`. El margen puede ayudar a activar la salida antes de la voz, pero su eficacia debe comprobarse con los audífonos concretos; no constituye un diagnóstico confirmado del controlador Bluetooth.
+
+`scripts/prepare-generated-playback.py` genera estas copias y verifica que, después del silencio, los samples coincidan exactamente con el original decodificado y remuestreado. La espera configurable sigue comenzando al terminar la grabación completa.
+
+## Aleatoriedad
+
+Se aplica Fisher–Yates a una copia de las 54 cartas con `Random.Shared`. Cada intercambio elige uniformemente entre las posiciones restantes. Cada carta puede ocupar cualquier posición; se extrae sin reemplazo, por lo que dentro de una partida no hay repeticiones. Es un generador pseudoaleatorio apropiado para este juego, no un sorteo criptográfico certificado.
+
+Las pruebas habituales comprueban integridad de 100 mezclas. `dotnet run --project tests/Loteria.Tests.csproj -- --shuffle-audit` ejecuta 54 000 partidas usando el mismo generador y registra frecuencias por posición en `artifacts/shuffle-audit.json`. Las frecuencias pueden fluctuar; una muestra estadística sirve para detectar anomalías, no para demostrar aleatoriedad perfecta. Una carta puede volver a salir primero en partidas consecutivas.
+
+Diagnóstico de reproducción: `dotnet run --project tests/Loteria.Tests.csproj -- --audio-probe RUTA_AUDIO` mide tres reproducciones a volumen cero, su duración declarada y tiempo transcurrido; no verifica qué se oye físicamente en los audífonos.
+
+## Opciones de voz
+
 En Configuración → Voz están disponibles **Generada · Español**, **Generada · Inglés** y **Generada · Dichos en español**, procedentes de https://www.loteriacaller.com/. Cada opción usa las 54 cartas clásicas del catálogo. La opción de dichos reproduce el dicho correspondiente en lugar del nombre; todas conservan la secuencia giro → grabación completa → espera configurable, a velocidad original.
 
 Se conservan también Voz original y LoteriaCard. Radioteca se retiró del selector, catálogo y herramientas. Una preferencia antigua de Radioteca se migra a LoteriaCard. Las demás selecciones guardadas se conservan.
 
-Los 180 MP3 extraídos (incluidas 6 cartas modernas por conjunto) siguen en `assets/audio-packs/loteriacaller/`; solo las 54 clásicas por conjunto se integran mediante `scripts/import-generated-voices.py`. No se modifican los títulos ni los bytes de audio.
+Los 180 MP3 extraídos (incluidas 6 cartas modernas por conjunto) siguen intactos en `assets/audio-packs/loteriacaller/`; solo las 54 clásicas por conjunto se integran mediante `scripts/import-generated-voices.py`, que también prepara las copias WAV. No se modifican los títulos ni los archivos MP3 originales.
 
 ## Créditos de Pixel Art
 

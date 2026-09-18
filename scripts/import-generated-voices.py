@@ -1,5 +1,5 @@
-"""Integrate the classic 54 recordings without changing display titles or audio bytes."""
-import hashlib,json,pathlib,shutil
+"""Import the classic 54 source recordings, then prepare compatible PCM playback copies."""
+import hashlib,json,pathlib,subprocess,sys
 root=pathlib.Path(__file__).resolve().parents[1]; base=root/'assets/loteria'
 source=root/'assets/audio-packs/loteriacaller'
 catalog=json.loads((base/'manifest.json').read_text(encoding='utf8'))
@@ -20,3 +20,4 @@ for card in catalog:
 (base/'manifest.json').write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+'\n',encoding='utf8')
 (base/'generated-provenance.json').write_text(json.dumps(records,indent=2)+'\n',encoding='utf8')
 print('Integrated 3 x 54 generated recordings; removed Radioteca references from catalog.')
+subprocess.run([sys.executable,str(root/'scripts/prepare-generated-playback.py')],check=True)

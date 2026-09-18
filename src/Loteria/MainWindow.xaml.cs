@@ -114,7 +114,7 @@ public partial class MainWindow : Window
  }
  void PlayClip(Card card,string relative,bool isFlip,Action onEnded) {
   generation++; player?.Close(); playingFlip=isFlip;
-  int version=generation; player=new MediaPlayer { Volume=Volume.Value }; var current=player;
+  int version=generation; player=new MediaPlayer { Volume=Volume.Value, SpeedRatio=1 }; var current=player;
   phase="loading"; loadDeadline=clock.Elapsed.TotalSeconds+15; Status.Text="Preparando audio…";
   current.MediaOpened += (_,_)=> { if(version!=generation) return; phase="playing"; if(!paused) current.Play(); };
   current.MediaEnded += (_,_)=> { if(version==generation) onEnded(); };

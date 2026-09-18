@@ -9,7 +9,9 @@ using System.Windows.Threading;
 using Loteria;
 
 static class Program {
- [STAThread] static int Main() {
+ [STAThread] static int Main(string[] args) {
+  if(args.Contains("--audio-probe")) return Diagnostics.ProbeAudio(args.Skip(1).ToArray());
+  if(args.Contains("--shuffle-audit")) return Diagnostics.AuditShuffle();
   try {
    var cards=JsonSerializer.Deserialize<List<Card>>(File.ReadAllText(Path.Combine(AppContext.BaseDirectory,"assets/loteria/manifest.json")),new JsonSerializerOptions { PropertyNameCaseInsensitive=true })!;
    for(int seed=0;seed<100;seed++) {

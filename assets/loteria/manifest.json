@@ -12,9 +12,9 @@
     "audio": {
       "repo": "audio/repo/01-gallo.m4a",
       "loteriacard": "audio/loteriacard/01-gallo.mp3",
-      "generated-es": "audio/generated-es/01-gallo.mp3",
-      "generated-en": "audio/generated-en/01-gallo.mp3",
-      "generated-verses-es": "audio/generated-verses-es/01-gallo.mp3"
+      "generated-es": "audio/generated-es/01-gallo.wav",
+      "generated-en": "audio/generated-en/01-gallo.wav",
+      "generated-verses-es": "audio/generated-verses-es/01-gallo.wav"
     }
   },
   {
@@ -30,9 +30,9 @@
     "audio": {
       "repo": "audio/repo/02-diablito.m4a",
       "loteriacard": "audio/loteriacard/02-diablito.mp3",
-      "generated-es": "audio/generated-es/02-diablito.mp3",
-      "generated-en": "audio/generated-en/02-diablito.mp3",
-      "generated-verses-es": "audio/generated-verses-es/02-diablito.mp3"
+      "generated-es": "audio/generated-es/02-diablito.wav",
+      "generated-en": "audio/generated-en/02-diablito.wav",
+      "generated-verses-es": "audio/generated-verses-es/02-diablito.wav"
     }
   },
   {
@@ -48,9 +48,9 @@
     "audio": {
       "repo": "audio/repo/03-dama.m4a",
       "loteriacard": "audio/loteriacard/03-dama.mp3",
-      "generated-es": "audio/generated-es/03-dama.mp3",
-      "generated-en": "audio/generated-en/03-dama.mp3",
-      "generated-verses-es": "audio/generated-verses-es/03-dama.mp3"
+      "generated-es": "audio/generated-es/03-dama.wav",
+      "generated-en": "audio/generated-en/03-dama.wav",
+      "generated-verses-es": "audio/generated-verses-es/03-dama.wav"
     }
   },
   {
@@ -66,9 +66,9 @@
     "audio": {
       "repo": "audio/repo/04-catrin.m4a",
       "loteriacard": "audio/loteriacard/04-catrin.mp3",
-      "generated-es": "audio/generated-es/04-catrin.mp3",
-      "generated-en": "audio/generated-en/04-catrin.mp3",
-      "generated-verses-es": "audio/generated-verses-es/04-catrin.mp3"
+      "generated-es": "audio/generated-es/04-catrin.wav",
+      "generated-en": "audio/generated-en/04-catrin.wav",
+      "generated-verses-es": "audio/generated-verses-es/04-catrin.wav"
     }
   },
   {
@@ -84,9 +84,9 @@
     "audio": {
       "repo": "audio/repo/05-paraguas.m4a",
       "loteriacard": "audio/loteriacard/05-paraguas.mp3",
-      "generated-es": "audio/generated-es/05-paraguas.mp3",
-      "generated-en": "audio/generated-en/05-paraguas.mp3",
-      "generated-verses-es": "audio/generated-verses-es/05-paraguas.mp3"
+      "generated-es": "audio/generated-es/05-paraguas.wav",
+      "generated-en": "audio/generated-en/05-paraguas.wav",
+      "generated-verses-es": "audio/generated-verses-es/05-paraguas.wav"
     }
   },
   {
@@ -102,9 +102,9 @@
     "audio": {
       "repo": "audio/repo/06-sirena.m4a",
       "loteriacard": "audio/loteriacard/06-sirena.mp3",
-      "generated-es": "audio/generated-es/06-sirena.mp3",
-      "generated-en": "audio/generated-en/06-sirena.mp3",
-      "generated-verses-es": "audio/generated-verses-es/06-sirena.mp3"
+      "generated-es": "audio/generated-es/06-sirena.wav",
+      "generated-en": "audio/generated-en/06-sirena.wav",
+      "generated-verses-es": "audio/generated-verses-es/06-sirena.wav"
     }
   },
   {
@@ -120,9 +120,9 @@
     "audio": {
       "repo": "audio/repo/07-escalera.m4a",
       "loteriacard": "audio/loteriacard/07-escalera.mp3",
-      "generated-es": "audio/generated-es/07-escalera.mp3",
-      "generated-en": "audio/generated-en/07-escalera.mp3",
-      "generated-verses-es": "audio/generated-verses-es/07-escalera.mp3"
+      "generated-es": "audio/generated-es/07-escalera.wav",
+      "generated-en": "audio/generated-en/07-escalera.wav",
+      "generated-verses-es": "audio/generated-verses-es/07-escalera.wav"
     }
   },
   {
@@ -138,9 +138,9 @@
     "audio": {
       "repo": "audio/repo/08-botella.m4a",
       "loteriacard": "audio/loteriacard/08-botella.mp3",
-      "generated-es": "audio/generated-es/08-botella.mp3",
-      "generated-en": "audio/generated-en/08-botella.mp3",
-      "generated-verses-es": "audio/generated-verses-es/08-botella.mp3"
+      "generated-es": "audio/generated-es/08-botella.wav",
+      "generated-en": "audio/generated-en/08-botella.wav",
+      "generated-verses-es": "audio/generated-verses-es/08-botella.wav"
     }
   },
   {
@@ -156,9 +156,9 @@
     "audio": {
       "repo": "audio/repo/09-barril.m4a",
       "loteriacard": "audio/loteriacard/09-barril.mp3",
-      "generated-es": "audio/generated-es/09-barril.mp3",
-      "generated-en": "audio/generated-en/09-barril.mp3",
-      "generated-verses-es": "audio/generated-verses-es/09-barril.mp3"
+      "generated-es": "audio/generated-es/09-barril.wav",
+      "generated-en": "audio/generated-en/09-barril.wav",
+      "generated-verses-es": "audio/generated-verses-es/09-barril.wav"
     }
   },
   {
@@ -174,9 +174,9 @@
     "audio": {
       "repo": "audio/repo/10-arbol.m4a",
       "loteriacard": "audio/loteriacard/10-arbol.mp3",
-      "generated-es": "audio/generated-es/10-arbol.mp3",
-      "generated-en": "audio/generated-en/10-arbol.mp3",
-      "generated-verses-es": "audio/generated-verses-es/10-arbol.mp3"
+      "generated-es": "audio/generated-es/10-arbol.wav",
+      "generated-en": "audio/generated-en/10-arbol.wav",
+      "generated-verses-es": "audio/generated-verses-es/10-arbol.wav"
     }
   },
   {
@@ -192,9 +192,9 @@
     "audio": {
       "repo": "audio/repo/11-melon.m4a",
       "loteriacard": "audio/loteriacard/11-melon.mp3",
-      "generated-es": "audio/generated-es/11-melon.mp3",
-      "generated-en": "audio/generated-en/11-melon.mp3",
-      "generated-verses-es": "audio/generated-verses-es/11-melon.mp3"
+      "generated-es": "audio/generated-es/11-melon.wav",
+      "generated-en": "audio/generated-en/11-melon.wav",
+      "generated-verses-es": "audio/generated-verses-es/11-melon.wav"
     }
   },
   {
@@ -210,9 +210,9 @@
     "audio": {
       "repo": "audio/repo/12-valiente.m4a",
       "loteriacard": "audio/loteriacard/12-valiente.mp3",
-      "generated-es": "audio/generated-es/12-valiente.mp3",
-      "generated-en": "audio/generated-en/12-valiente.mp3",
-      "generated-verses-es": "audio/generated-verses-es/12-valiente.mp3"
+      "generated-es": "audio/generated-es/12-valiente.wav",
+      "generated-en": "audio/generated-en/12-valiente.wav",
+      "generated-verses-es": "audio/generated-verses-es/12-valiente.wav"
     }
   },
   {
@@ -228,9 +228,9 @@
     "audio": {
       "repo": "audio/repo/13-gorrito.m4a",
       "loteriacard": "audio/loteriacard/13-gorrito.mp3",
-      "generated-es": "audio/generated-es/13-gorrito.mp3",
-      "generated-en": "audio/generated-en/13-gorrito.mp3",
-      "generated-verses-es": "audio/generated-verses-es/13-gorrito.mp3"
+      "generated-es": "audio/generated-es/13-gorrito.wav",
+      "generated-en": "audio/generated-en/13-gorrito.wav",
+      "generated-verses-es": "audio/generated-verses-es/13-gorrito.wav"
     }
   },
   {
@@ -246,9 +246,9 @@
     "audio": {
       "repo": "audio/repo/14-muerte.m4a",
       "loteriacard": "audio/loteriacard/14-muerte.mp3",
-      "generated-es": "audio/generated-es/14-muerte.mp3",
-      "generated-en": "audio/generated-en/14-muerte.mp3",
-      "generated-verses-es": "audio/generated-verses-es/14-muerte.mp3"
+      "generated-es": "audio/generated-es/14-muerte.wav",
+      "generated-en": "audio/generated-en/14-muerte.wav",
+      "generated-verses-es": "audio/generated-verses-es/14-muerte.wav"
     }
   },
   {
@@ -264,9 +264,9 @@
     "audio": {
       "repo": "audio/repo/15-pera.m4a",
       "loteriacard": "audio/loteriacard/15-pera.mp3",
-      "generated-es": "audio/generated-es/15-pera.mp3",
-      "generated-en": "audio/generated-en/15-pera.mp3",
-      "generated-verses-es": "audio/generated-verses-es/15-pera.mp3"
+      "generated-es": "audio/generated-es/15-pera.wav",
+      "generated-en": "audio/generated-en/15-pera.wav",
+      "generated-verses-es": "audio/generated-verses-es/15-pera.wav"
     }
   },
   {
@@ -282,9 +282,9 @@
     "audio": {
       "repo": "audio/repo/16-bandera.m4a",
       "loteriacard": "audio/loteriacard/16-bandera.mp3",
-      "generated-es": "audio/generated-es/16-bandera.mp3",
-      "generated-en": "audio/generated-en/16-bandera.mp3",
-      "generated-verses-es": "audio/generated-verses-es/16-bandera.mp3"
+      "generated-es": "audio/generated-es/16-bandera.wav",
+      "generated-en": "audio/generated-en/16-bandera.wav",
+      "generated-verses-es": "audio/generated-verses-es/16-bandera.wav"
     }
   },
   {
@@ -300,9 +300,9 @@
     "audio": {
       "repo": "audio/repo/17-bandolon.m4a",
       "loteriacard": "audio/loteriacard/17-bandolon.mp3",
-      "generated-es": "audio/generated-es/17-bandolon.mp3",
-      "generated-en": "audio/generated-en/17-bandolon.mp3",
-      "generated-verses-es": "audio/generated-verses-es/17-bandolon.mp3"
+      "generated-es": "audio/generated-es/17-bandolon.wav",
+      "generated-en": "audio/generated-en/17-bandolon.wav",
+      "generated-verses-es": "audio/generated-verses-es/17-bandolon.wav"
     }
   },
   {
@@ -318,9 +318,9 @@
     "audio": {
       "repo": "audio/repo/18-violoncello.m4a",
       "loteriacard": "audio/loteriacard/18-violoncello.mp3",
-      "generated-es": "audio/generated-es/18-violoncello.mp3",
-      "generated-en": "audio/generated-en/18-violoncello.mp3",
-      "generated-verses-es": "audio/generated-verses-es/18-violoncello.mp3"
+      "generated-es": "audio/generated-es/18-violoncello.wav",
+      "generated-en": "audio/generated-en/18-violoncello.wav",
+      "generated-verses-es": "audio/generated-verses-es/18-violoncello.wav"
     }
   },
   {
@@ -336,9 +336,9 @@
     "audio": {
       "repo": "audio/repo/19-garza.m4a",
       "loteriacard": "audio/loteriacard/19-garza.mp3",
-      "generated-es": "audio/generated-es/19-garza.mp3",
-      "generated-en": "audio/generated-en/19-garza.mp3",
-      "generated-verses-es": "audio/generated-verses-es/19-garza.mp3"
+      "generated-es": "audio/generated-es/19-garza.wav",
+      "generated-en": "audio/generated-en/19-garza.wav",
+      "generated-verses-es": "audio/generated-verses-es/19-garza.wav"
     }
   },
   {
@@ -354,9 +354,9 @@
     "audio": {
       "repo": "audio/repo/20-pajaro.m4a",
       "loteriacard": "audio/loteriacard/20-pajaro.mp3",
-      "generated-es": "audio/generated-es/20-pajaro.mp3",
-      "generated-en": "audio/generated-en/20-pajaro.mp3",
-      "generated-verses-es": "audio/generated-verses-es/20-pajaro.mp3"
+      "generated-es": "audio/generated-es/20-pajaro.wav",
+      "generated-en": "audio/generated-en/20-pajaro.wav",
+      "generated-verses-es": "audio/generated-verses-es/20-pajaro.wav"
     }
   },
   {
@@ -372,9 +372,9 @@
     "audio": {
       "repo": "audio/repo/21-mano.m4a",
       "loteriacard": "audio/loteriacard/21-mano.mp3",
-      "generated-es": "audio/generated-es/21-mano.mp3",
-      "generated-en": "audio/generated-en/21-mano.mp3",
-      "generated-verses-es": "audio/generated-verses-es/21-mano.mp3"
+      "generated-es": "audio/generated-es/21-mano.wav",
+      "generated-en": "audio/generated-en/21-mano.wav",
+      "generated-verses-es": "audio/generated-verses-es/21-mano.wav"
     }
   },
   {
@@ -390,9 +390,9 @@
     "audio": {
       "repo": "audio/repo/22-bota.m4a",
       "loteriacard": "audio/loteriacard/22-bota.mp3",
-      "generated-es": "audio/generated-es/22-bota.mp3",
-      "generated-en": "audio/generated-en/22-bota.mp3",
-      "generated-verses-es": "audio/generated-verses-es/22-bota.mp3"
+      "generated-es": "audio/generated-es/22-bota.wav",
+      "generated-en": "audio/generated-en/22-bota.wav",
+      "generated-verses-es": "audio/generated-verses-es/22-bota.wav"
     }
   },
   {
@@ -408,9 +408,9 @@
     "audio": {
       "repo": "audio/repo/23-luna.m4a",
       "loteriacard": "audio/loteriacard/23-luna.mp3",
-      "generated-es": "audio/generated-es/23-luna.mp3",
-      "generated-en": "audio/generated-en/23-luna.mp3",
-      "generated-verses-es": "audio/generated-verses-es/23-luna.mp3"
+      "generated-es": "audio/generated-es/23-luna.wav",
+      "generated-en": "audio/generated-en/23-luna.wav",
+      "generated-verses-es": "audio/generated-verses-es/23-luna.wav"
     }
   },
   {
@@ -426,9 +426,9 @@
     "audio": {
       "repo": "audio/repo/24-cotorro.m4a",
       "loteriacard": "audio/loteriacard/24-cotorro.mp3",
-      "generated-es": "audio/generated-es/24-cotorro.mp3",
-      "generated-en": "audio/generated-en/24-cotorro.mp3",
-      "generated-verses-es": "audio/generated-verses-es/24-cotorro.mp3"
+      "generated-es": "audio/generated-es/24-cotorro.wav",
+      "generated-en": "audio/generated-en/24-cotorro.wav",
+      "generated-verses-es": "audio/generated-verses-es/24-cotorro.wav"
     }
   },
   {
@@ -444,9 +444,9 @@
     "audio": {
       "repo": "audio/repo/25-borracho.m4a",
       "loteriacard": "audio/loteriacard/25-borracho.mp3",
-      "generated-es": "audio/generated-es/25-borracho.mp3",
-      "generated-en": "audio/generated-en/25-borracho.mp3",
-      "generated-verses-es": "audio/generated-verses-es/25-borracho.mp3"
+      "generated-es": "audio/generated-es/25-borracho.wav",
+      "generated-en": "audio/generated-en/25-borracho.wav",
+      "generated-verses-es": "audio/generated-verses-es/25-borracho.wav"
     }
   },
   {
@@ -462,9 +462,9 @@
     "audio": {
       "repo": "audio/repo/26-negrito.m4a",
       "loteriacard": "audio/loteriacard/26-negrito.mp3",
-      "generated-es": "audio/generated-es/26-negrito.mp3",
-      "generated-en": "audio/generated-en/26-negrito.mp3",
-      "generated-verses-es": "audio/generated-verses-es/26-negrito.mp3"
+      "generated-es": "audio/generated-es/26-negrito.wav",
+      "generated-en": "audio/generated-en/26-negrito.wav",
+      "generated-verses-es": "audio/generated-verses-es/26-negrito.wav"
     }
   },
   {
@@ -480,9 +480,9 @@
     "audio": {
       "repo": "audio/repo/27-corazon.m4a",
       "loteriacard": "audio/loteriacard/27-corazon.mp3",
-      "generated-es": "audio/generated-es/27-corazon.mp3",
-      "generated-en": "audio/generated-en/27-corazon.mp3",
-      "generated-verses-es": "audio/generated-verses-es/27-corazon.mp3"
+      "generated-es": "audio/generated-es/27-corazon.wav",
+      "generated-en": "audio/generated-en/27-corazon.wav",
+      "generated-verses-es": "audio/generated-verses-es/27-corazon.wav"
     }
   },
   {
@@ -498,9 +498,9 @@
     "audio": {
       "repo": "audio/repo/28-sandia.m4a",
       "loteriacard": "audio/loteriacard/28-sandia.mp3",
-      "generated-es": "audio/generated-es/28-sandia.mp3",
-      "generated-en": "audio/generated-en/28-sandia.mp3",
-      "generated-verses-es": "audio/generated-verses-es/28-sandia.mp3"
+      "generated-es": "audio/generated-es/28-sandia.wav",
+      "generated-en": "audio/generated-en/28-sandia.wav",
+      "generated-verses-es": "audio/generated-verses-es/28-sandia.wav"
     }
   },
   {
@@ -516,9 +516,9 @@
     "audio": {
       "repo": "audio/repo/29-tambor.m4a",
       "loteriacard": "audio/loteriacard/29-tambor.mp3",
-      "generated-es": "audio/generated-es/29-tambor.mp3",
-      "generated-en": "audio/generated-en/29-tambor.mp3",
-      "generated-verses-es": "audio/generated-verses-es/29-tambor.mp3"
+      "generated-es": "audio/generated-es/29-tambor.wav",
+      "generated-en": "audio/generated-en/29-tambor.wav",
+      "generated-verses-es": "audio/generated-verses-es/29-tambor.wav"
     }
   },
   {
@@ -534,9 +534,9 @@
     "audio": {
       "repo": "audio/repo/30-camaron.m4a",
       "loteriacard": "audio/loteriacard/30-camaron.mp3",
-      "generated-es": "audio/generated-es/30-camaron.mp3",
-      "generated-en": "audio/generated-en/30-camaron.mp3",
-      "generated-verses-es": "audio/generated-verses-es/30-camaron.mp3"
+      "generated-es": "audio/generated-es/30-camaron.wav",
+      "generated-en": "audio/generated-en/30-camaron.wav",
+      "generated-verses-es": "audio/generated-verses-es/30-camaron.wav"
     }
   },
   {
@@ -552,9 +552,9 @@
     "audio": {
       "repo": "audio/repo/31-jaras.m4a",
       "loteriacard": "audio/loteriacard/31-jaras.mp3",
-      "generated-es": "audio/generated-es/31-jaras.mp3",
-      "generated-en": "audio/generated-en/31-jaras.mp3",
-      "generated-verses-es": "audio/generated-verses-es/31-jaras.mp3"
+      "generated-es": "audio/generated-es/31-jaras.wav",
+      "generated-en": "audio/generated-en/31-jaras.wav",
+      "generated-verses-es": "audio/generated-verses-es/31-jaras.wav"
     }
   },
   {
@@ -570,9 +570,9 @@
     "audio": {
       "repo": "audio/repo/32-musico.m4a",
       "loteriacard": "audio/loteriacard/32-musico.mp3",
-      "generated-es": "audio/generated-es/32-musico.mp3",
-      "generated-en": "audio/generated-en/32-musico.mp3",
-      "generated-verses-es": "audio/generated-verses-es/32-musico.mp3"
+      "generated-es": "audio/generated-es/32-musico.wav",
+      "generated-en": "audio/generated-en/32-musico.wav",
+      "generated-verses-es": "audio/generated-verses-es/32-musico.wav"
     }
   },
   {
@@ -588,9 +588,9 @@
     "audio": {
       "repo": "audio/repo/33-arana.m4a",
       "loteriacard": "audio/loteriacard/33-arana.mp3",
-      "generated-es": "audio/generated-es/33-arana.mp3",
-      "generated-en": "audio/generated-en/33-arana.mp3",
-      "generated-verses-es": "audio/generated-verses-es/33-arana.mp3"
+      "generated-es": "audio/generated-es/33-arana.wav",
+      "generated-en": "audio/generated-en/33-arana.wav",
+      "generated-verses-es": "audio/generated-verses-es/33-arana.wav"
     }
   },
   {
@@ -606,9 +606,9 @@
     "audio": {
       "repo": "audio/repo/34-soldado.m4a",
       "loteriacard": "audio/loteriacard/34-soldado.mp3",
-      "generated-es": "audio/generated-es/34-soldado.mp3",
-      "generated-en": "audio/generated-en/34-soldado.mp3",
-      "generated-verses-es": "audio/generated-verses-es/34-soldado.mp3"
+      "generated-es": "audio/generated-es/34-soldado.wav",
+      "generated-en": "audio/generated-en/34-soldado.wav",
+      "generated-verses-es": "audio/generated-verses-es/34-soldado.wav"
     }
   },
   {
@@ -624,9 +624,9 @@
     "audio": {
       "repo": "audio/repo/35-estrella.m4a",
       "loteriacard": "audio/loteriacard/35-estrella.mp3",
-      "generated-es": "audio/generated-es/35-estrella.mp3",
-      "generated-en": "audio/generated-en/35-estrella.mp3",
-      "generated-verses-es": "audio/generated-verses-es/35-estrella.mp3"
+      "generated-es": "audio/generated-es/35-estrella.wav",
+      "generated-en": "audio/generated-en/35-estrella.wav",
+      "generated-verses-es": "audio/generated-verses-es/35-estrella.wav"
     }
   },
   {
@@ -642,9 +642,9 @@
     "audio": {
       "repo": "audio/repo/36-cazo.m4a",
       "loteriacard": "audio/loteriacard/36-cazo.mp3",
-      "generated-es": "audio/generated-es/36-cazo.mp3",
-      "generated-en": "audio/generated-en/36-cazo.mp3",
-      "generated-verses-es": "audio/generated-verses-es/36-cazo.mp3"
+      "generated-es": "audio/generated-es/36-cazo.wav",
+      "generated-en": "audio/generated-en/36-cazo.wav",
+      "generated-verses-es": "audio/generated-verses-es/36-cazo.wav"
     }
   },
   {
@@ -660,9 +660,9 @@
     "audio": {
       "repo": "audio/repo/37-mundo.m4a",
       "loteriacard": "audio/loteriacard/37-mundo.mp3",
-      "generated-es": "audio/generated-es/37-mundo.mp3",
-      "generated-en": "audio/generated-en/37-mundo.mp3",
-      "generated-verses-es": "audio/generated-verses-es/37-mundo.mp3"
+      "generated-es": "audio/generated-es/37-mundo.wav",
+      "generated-en": "audio/generated-en/37-mundo.wav",
+      "generated-verses-es": "audio/generated-verses-es/37-mundo.wav"
     }
   },
   {
@@ -678,9 +678,9 @@
     "audio": {
       "repo": "audio/repo/38-apache.m4a",
       "loteriacard": "audio/loteriacard/38-apache.mp3",
-      "generated-es": "audio/generated-es/38-apache.mp3",
-      "generated-en": "audio/generated-en/38-apache.mp3",
-      "generated-verses-es": "audio/generated-verses-es/38-apache.mp3"
+      "generated-es": "audio/generated-es/38-apache.wav",
+      "generated-en": "audio/generated-en/38-apache.wav",
+      "generated-verses-es": "audio/generated-verses-es/38-apache.wav"
     }
   },
   {
@@ -696,9 +696,9 @@
     "audio": {
       "repo": "audio/repo/39-nopal.m4a",
       "loteriacard": "audio/loteriacard/39-nopal.mp3",
-      "generated-es": "audio/generated-es/39-nopal.mp3",
-      "generated-en": "audio/generated-en/39-nopal.mp3",
-      "generated-verses-es": "audio/generated-verses-es/39-nopal.mp3"
+      "generated-es": "audio/generated-es/39-nopal.wav",
+      "generated-en": "audio/generated-en/39-nopal.wav",
+      "generated-verses-es": "audio/generated-verses-es/39-nopal.wav"
     }
   },
   {
@@ -714,9 +714,9 @@
     "audio": {
       "repo": "audio/repo/40-alacran.m4a",
       "loteriacard": "audio/loteriacard/40-alacran.mp3",
-      "generated-es": "audio/generated-es/40-alacran.mp3",
-      "generated-en": "audio/generated-en/40-alacran.mp3",
-      "generated-verses-es": "audio/generated-verses-es/40-alacran.mp3"
+      "generated-es": "audio/generated-es/40-alacran.wav",
+      "generated-en": "audio/generated-en/40-alacran.wav",
+      "generated-verses-es": "audio/generated-verses-es/40-alacran.wav"
     }
   },
   {
@@ -732,9 +732,9 @@
     "audio": {
       "repo": "audio/repo/41-rosa.m4a",
       "loteriacard": "audio/loteriacard/41-rosa.mp3",
-      "generated-es": "audio/generated-es/41-rosa.mp3",
-      "generated-en": "audio/generated-en/41-rosa.mp3",
-      "generated-verses-es": "audio/generated-verses-es/41-rosa.mp3"
+      "generated-es": "audio/generated-es/41-rosa.wav",
+      "generated-en": "audio/generated-en/41-rosa.wav",
+      "generated-verses-es": "audio/generated-verses-es/41-rosa.wav"
     }
   },
   {
@@ -750,9 +750,9 @@
     "audio": {
       "repo": "audio/repo/42-calavera.m4a",
       "loteriacard": "audio/loteriacard/42-calavera.mp3",
-      "generated-es": "audio/generated-es/42-calavera.mp3",
-      "generated-en": "audio/generated-en/42-calavera.mp3",
-      "generated-verses-es": "audio/generated-verses-es/42-calavera.mp3"
+      "generated-es": "audio/generated-es/42-calavera.wav",
+      "generated-en": "audio/generated-en/42-calavera.wav",
+      "generated-verses-es": "audio/generated-verses-es/42-calavera.wav"
     }
   },
   {
@@ -768,9 +768,9 @@
     "audio": {
       "repo": "audio/repo/43-campana.m4a",
       "loteriacard": "audio/loteriacard/43-campana.mp3",
-      "generated-es": "audio/generated-es/43-campana.mp3",
-      "generated-en": "audio/generated-en/43-campana.mp3",
-      "generated-verses-es": "audio/generated-verses-es/43-campana.mp3"
+      "generated-es": "audio/generated-es/43-campana.wav",
+      "generated-en": "audio/generated-en/43-campana.wav",
+      "generated-verses-es": "audio/generated-verses-es/43-campana.wav"
     }
   },
   {
@@ -786,9 +786,9 @@
     "audio": {
       "repo": "audio/repo/44-cantarito.m4a",
       "loteriacard": "audio/loteriacard/44-cantarito.mp3",
-      "generated-es": "audio/generated-es/44-cantarito.mp3",
-      "generated-en": "audio/generated-en/44-cantarito.mp3",
-      "generated-verses-es": "audio/generated-verses-es/44-cantarito.mp3"
+      "generated-es": "audio/generated-es/44-cantarito.wav",
+      "generated-en": "audio/generated-en/44-cantarito.wav",
+      "generated-verses-es": "audio/generated-verses-es/44-cantarito.wav"
     }
   },
   {
@@ -804,9 +804,9 @@
     "audio": {
       "repo": "audio/repo/45-venado.m4a",
       "loteriacard": "audio/loteriacard/45-venado.mp3",
-      "generated-es": "audio/generated-es/45-venado.mp3",
-      "generated-en": "audio/generated-en/45-venado.mp3",
-      "generated-verses-es": "audio/generated-verses-es/45-venado.mp3"
+      "generated-es": "audio/generated-es/45-venado.wav",
+      "generated-en": "audio/generated-en/45-venado.wav",
+      "generated-verses-es": "audio/generated-verses-es/45-venado.wav"
     }
   },
   {
@@ -822,9 +822,9 @@
     "audio": {
       "repo": "audio/repo/46-sol.m4a",
       "loteriacard": "audio/loteriacard/46-sol.mp3",
-      "generated-es": "audio/generated-es/46-sol.mp3",
-      "generated-en": "audio/generated-en/46-sol.mp3",
-      "generated-verses-es": "audio/generated-verses-es/46-sol.mp3"
+      "generated-es": "audio/generated-es/46-sol.wav",
+      "generated-en": "audio/generated-en/46-sol.wav",
+      "generated-verses-es": "audio/generated-verses-es/46-sol.wav"
     }
   },
   {
@@ -840,9 +840,9 @@
     "audio": {
       "repo": "audio/repo/47-corona.m4a",
       "loteriacard": "audio/loteriacard/47-corona.mp3",
-      "generated-es": "audio/generated-es/47-corona.mp3",
-      "generated-en": "audio/generated-en/47-corona.mp3",
-      "generated-verses-es": "audio/generated-verses-es/47-corona.mp3"
+      "generated-es": "audio/generated-es/47-corona.wav",
+      "generated-en": "audio/generated-en/47-corona.wav",
+      "generated-verses-es": "audio/generated-verses-es/47-corona.wav"
     }
   },
   {
@@ -858,9 +858,9 @@
     "audio": {
       "repo": "audio/repo/48-chalupa.m4a",
       "loteriacard": "audio/loteriacard/48-chalupa.mp3",
-      "generated-es": "audio/generated-es/48-chalupa.mp3",
-      "generated-en": "audio/generated-en/48-chalupa.mp3",
-      "generated-verses-es": "audio/generated-verses-es/48-chalupa.mp3"
+      "generated-es": "audio/generated-es/48-chalupa.wav",
+      "generated-en": "audio/generated-en/48-chalupa.wav",
+      "generated-verses-es": "audio/generated-verses-es/48-chalupa.wav"
     }
   },
   {
@@ -876,9 +876,9 @@
     "audio": {
       "repo": "audio/repo/49-pino.m4a",
       "loteriacard": "audio/loteriacard/49-pino.mp3",
-      "generated-es": "audio/generated-es/49-pino.mp3",
-      "generated-en": "audio/generated-en/49-pino.mp3",
-      "generated-verses-es": "audio/generated-verses-es/49-pino.mp3"
+      "generated-es": "audio/generated-es/49-pino.wav",
+      "generated-en": "audio/generated-en/49-pino.wav",
+      "generated-verses-es": "audio/generated-verses-es/49-pino.wav"
     }
   },
   {
@@ -894,9 +894,9 @@
     "audio": {
       "repo": "audio/repo/50-pescado.m4a",
       "loteriacard": "audio/loteriacard/50-pescado.mp3",
-      "generated-es": "audio/generated-es/50-pescado.mp3",
-      "generated-en": "audio/generated-en/50-pescado.mp3",
-      "generated-verses-es": "audio/generated-verses-es/50-pescado.mp3"
+      "generated-es": "audio/generated-es/50-pescado.wav",
+      "generated-en": "audio/generated-en/50-pescado.wav",
+      "generated-verses-es": "audio/generated-verses-es/50-pescado.wav"
     }
   },
   {
@@ -912,9 +912,9 @@
     "audio": {
       "repo": "audio/repo/51-palma.m4a",
       "loteriacard": "audio/loteriacard/51-palma.mp3",
-      "generated-es": "audio/generated-es/51-palma.mp3",
-      "generated-en": "audio/generated-en/51-palma.mp3",
-      "generated-verses-es": "audio/generated-verses-es/51-palma.mp3"
+      "generated-es": "audio/generated-es/51-palma.wav",
+      "generated-en": "audio/generated-en/51-palma.wav",
+      "generated-verses-es": "audio/generated-verses-es/51-palma.wav"
     }
   },
   {
@@ -930,9 +930,9 @@
     "audio": {
       "repo": "audio/repo/52-maceta.m4a",
       "loteriacard": "audio/loteriacard/52-maceta.mp3",
-      "generated-es": "audio/generated-es/52-maceta.mp3",
-      "generated-en": "audio/generated-en/52-maceta.mp3",
-      "generated-verses-es": "audio/generated-verses-es/52-maceta.mp3"
+      "generated-es": "audio/generated-es/52-maceta.wav",
+      "generated-en": "audio/generated-en/52-maceta.wav",
+      "generated-verses-es": "audio/generated-verses-es/52-maceta.wav"
     }
   },
   {
@@ -948,9 +948,9 @@
     "audio": {
       "repo": "audio/repo/53-arpa.m4a",
       "loteriacard": "audio/loteriacard/53-arpa.mp3",
-      "generated-es": "audio/generated-es/53-arpa.mp3",
-      "generated-en": "audio/generated-en/53-arpa.mp3",
-      "generated-verses-es": "audio/generated-verses-es/53-arpa.mp3"
+      "generated-es": "audio/generated-es/53-arpa.wav",
+      "generated-en": "audio/generated-en/53-arpa.wav",
+      "generated-verses-es": "audio/generated-verses-es/53-arpa.wav"
     }
   },
   {
@@ -966,9 +966,9 @@
     "audio": {
       "repo": "audio/repo/54-rana.m4a",
       "loteriacard": "audio/loteriacard/54-rana.mp3",
-      "generated-es": "audio/generated-es/54-rana.mp3",
-      "generated-en": "audio/generated-en/54-rana.mp3",
-      "generated-verses-es": "audio/generated-verses-es/54-rana.mp3"
+      "generated-es": "audio/generated-es/54-rana.wav",
+      "generated-en": "audio/generated-en/54-rana.wav",
+      "generated-verses-es": "audio/generated-verses-es/54-rana.wav"
     }
   }
 ]
