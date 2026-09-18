@@ -11,7 +11,7 @@
 - Nuevo valor inicial: `pixel + loteriacard`, giro activado. Se respetan preferencias guardadas de partidas anteriores.
 - Secuencia: efecto de giro, voz completa, espera configurada. El efecto se puede desactivar. Sin audio silencia efecto y voz.
 
-Aplicación interna y no comercial para jugar en una oficina. El propietario del proyecto autorizó expresamente el uso de estas tres fuentes. Consulta realizada el 14 de septiembre de 2026.
+Aplicación interna y no comercial para jugar en una oficina. El propietario del proyecto autorizó expresamente el uso de las fuentes utilizadas. Consulta realizada el 14 de septiembre de 2026.
 
 ## Imágenes tradicionales y audio alternativo
 
@@ -26,20 +26,14 @@ Aplicación interna y no comercial para jugar en una oficina. El propietario del
 - `repo-provenance.json` registra ruta original, destino y SHA-256 de cada archivo importado.
 - Las 54 imágenes se revisaron en una hoja de contacto. Los 54 audios se decodificaron con FFmpeg; el mapeo se verificó contra el código fuente. Está pendiente la escucha humana completa de las 54 grabaciones.
 
-## Audio principal — pendiente de obtención
+## Voces generadas — LoteriaCaller
 
-- Proyecto: Lotería Mexicana.
-- Publicado por Radio Precaución.
-- Realizado por alumnos del taller de Radio del Colegio Calmécac de Jalisco, México.
-- Fuente: https://www.radioteca.net/audioseries/loteria-mexicana/
-- Publicación: 1 de diciembre de 2014.
-- Descripción de la fuente: colección sonora de las 54 fichas.
-- Licencia: Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional, CC BY-NC-SA 4.0.
-- Licencia completa: https://creativecommons.org/licenses/by-nc-sa/4.0/
-- Uso del proyecto: interno y no comercial.
-- Estado real: conexiones HTTP/HTTPS a la fuente agotaron su tiempo de espera. La página accesible mediante búsqueda únicamente expone cuatro pistas. No se han descargado ni normalizado audios de Radioteca y no se da por completo este conjunto.
-- `radioteca-downloads.json` conserva las cuatro direcciones observadas; no se inventaron URLs para las otras 50 pistas. El script de descarga permite completar esa lista con enlaces verificados, sin alterar el catálogo.
-- `scripts/process-radioteca.py` está preparado para analizar originales y normalizarlos, pero no se ha ejecutado sobre Radioteca. Conserva originales y escribe archivos derivados en las rutas del catálogo.
+- Fuente: https://www.loteriacaller.com/
+- El sitio identifica las grabaciones como pregeneradas con Amazon Polly; no se infiere el nombre del locutor.
+- Tres conjuntos: `generated-es` (nombre en español), `generated-en` (nombre en inglés), `generated-verses-es` (dicho en español).
+- 54 pistas clásicas por conjunto, vinculadas por número al catálogo fuente. MP3 originales sin modificación de velocidad ni normalización.
+- `generated-provenance.json` registra URL original, ID, ruta integrada y SHA-256. Procedencia completa: `../audio-packs/loteriacaller/SOURCES.md`.
+- Radioteca se retiró por solicitud del propietario; nunca se obtuvieron sus grabaciones.
 
 ## Pixel Art
 
@@ -58,4 +52,4 @@ Aplicación interna y no comercial para jugar en una oficina. El propietario del
 
 `scripts/verify-loteria-assets.py` comprueba IDs 1..54, títulos, rutas locales, tamaño no nulo y decodificación. Para audio, FFmpeg analiza volumen y silencios sin modificar archivos. La decodificación no prueba por sí sola el contenido hablado: no equivale a una revisión humana de las voces.
 
-Los recursos se consumen desde archivos locales. No hay descargas durante una partida ni sustituciones automáticas de conjuntos incompletos. La configuración inicial actual es `pixel + loteriacard` con giro activado; se respetan selecciones guardadas. Radioteca continúa pendiente.
+Los recursos se consumen desde archivos locales. No hay descargas durante una partida ni sustituciones automáticas de conjuntos incompletos. La configuración inicial actual es `pixel + loteriacard` con giro activado; se respetan selecciones guardadas. Las voces generadas se seleccionan de forma independiente a las ilustraciones.

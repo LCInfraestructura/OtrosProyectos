@@ -45,7 +45,9 @@ public partial class MainWindow : Window
    if(cards.Any(c=>string.IsNullOrWhiteSpace(c.Title) || c.Number!=c.Id)) throw new InvalidDataException("Cada carta requiere title y number igual a id.");
    if(File.Exists(prefs)) {
     try { var p=JsonSerializer.Deserialize<Preferences>(File.ReadAllText(prefs)); if(p!=null) {
-     ImageSet.SelectedIndex=p.ImageSet=="traditional"?1:0; AudioSet.SelectedIndex=p.AudioSet switch { "repo"=>1, "radioteca"=>0, _=>2 };
+     ImageSet.SelectedIndex=p.ImageSet=="traditional"?1:0;
+     AudioSet.SelectedItem=AudioSet.Items.Cast<ComboBoxItem>().FirstOrDefault(item=>item.Tag.ToString()==p.AudioSet)
+       ?? AudioSet.Items.Cast<ComboBoxItem>().Single(item=>item.Tag.ToString()=="loteriacard");
      FlipEnabled.IsChecked=p.FlipEnabled;
      DelayInput.Text=p.Delay.ToString(CultureInfo.CurrentCulture); Muted.IsChecked=p.Muted; Volume.Value=Math.Clamp(p.Volume,0,1);
     }} catch { /* Invalid preferences never prevent opening a valid catalog. */ }

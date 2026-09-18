@@ -44,7 +44,7 @@
     <TextBlock Text="Giro → voz completa → espera → siguiente carta" Foreground="#7B8077" FontSize="12" Margin="0,10,0,24"/>
     <TextBlock Text="BARAJA Y SONIDO" Foreground="#B55339" FontWeight="Bold" FontSize="11" Margin="0,0,0,12"/>
     <TextBlock Text="Ilustraciones" Margin="0,0,0,6"/><ComboBox x:Name="ImageSet" SelectedIndex="0" Margin="0,0,0,16"><ComboBoxItem Content="Pixel Art" Tag="pixel"/><ComboBoxItem Content="Tradicional" Tag="traditional"/></ComboBox>
-    <TextBlock Text="Voz" Margin="0,0,0,6"/><ComboBox x:Name="AudioSet" SelectedIndex="2" Margin="0,0,0,18"><ComboBoxItem Content="Radioteca (pendiente de descarga)" Tag="radioteca"/><ComboBoxItem Content="Voz original" Tag="repo"/><ComboBoxItem Content="LoteriaCard" Tag="loteriacard"/></ComboBox>
+    <TextBlock Text="Voz" Margin="0,0,0,6"/><ComboBox x:Name="AudioSet" SelectedIndex="1" Margin="0,0,0,18"><ComboBoxItem Content="Voz original" Tag="repo"/><ComboBoxItem Content="LoteriaCard" Tag="loteriacard"/><ComboBoxItem Content="Generada · Español" Tag="generated-es"/><ComboBoxItem Content="Generada · Inglés" Tag="generated-en"/><ComboBoxItem Content="Generada · Dichos en español" Tag="generated-verses-es"/></ComboBox>
     <CheckBox x:Name="FlipEnabled" Content="Sonido de giro de carta" IsChecked="True" Margin="0,0,0,14"/><CheckBox x:Name="Muted" Content="Jugar sin audio" Margin="0,0,0,20"/>
     <TextBlock Text="Volumen" Margin="0,0,0,8"/><Slider x:Name="Volume" Minimum="0" Maximum="1" Value="0.8"/>
    </StackPanel>

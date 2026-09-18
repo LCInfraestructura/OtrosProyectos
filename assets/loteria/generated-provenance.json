@@ -1,0 +1,1136 @@
+[
+  {
+    "id": 1,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/gallo.mp3",
+    "target": "audio/generated-es/01-gallo.mp3",
+    "sha256": "c2de17897c45e1b62896202afde92c0e307aba741dfb12efa9bb5ea644d76514"
+  },
+  {
+    "id": 1,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/gallo.mp3",
+    "target": "audio/generated-en/01-gallo.mp3",
+    "sha256": "0f38cda2b4397fef188d8cf6a8e40ef95046470494a3b12f1c01c8b809248025"
+  },
+  {
+    "id": 1,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/gallo.mp3",
+    "target": "audio/generated-verses-es/01-gallo.mp3",
+    "sha256": "7e9d6da4a7f2e8496f6733e3701e4620494942a6fa728b391a51500b2129d702"
+  },
+  {
+    "id": 2,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/diablito.mp3",
+    "target": "audio/generated-es/02-diablito.mp3",
+    "sha256": "eb8129aafc4c9559e8e477da360d6b35474367546b4ba90ead1d394c47af929a"
+  },
+  {
+    "id": 2,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/diablito.mp3",
+    "target": "audio/generated-en/02-diablito.mp3",
+    "sha256": "ecd6d51c06f0e587cc816d55f5ab38cb9603bc10274ce68ceb39f00ad5e34735"
+  },
+  {
+    "id": 2,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/diablito.mp3",
+    "target": "audio/generated-verses-es/02-diablito.mp3",
+    "sha256": "c19e7ab51e4018250a4682fc9704bd5f478e2b8375d4aa58c3af579b102f238a"
+  },
+  {
+    "id": 3,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/dama.mp3",
+    "target": "audio/generated-es/03-dama.mp3",
+    "sha256": "c0a59911fe56364ee3278de26236fb16cd94339754c55459dd131c87db491836"
+  },
+  {
+    "id": 3,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/dama.mp3",
+    "target": "audio/generated-en/03-dama.mp3",
+    "sha256": "4350c010b6d45c98ea0695291dd71083398440043289d8e723c5a15c7e481cd6"
+  },
+  {
+    "id": 3,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/dama.mp3",
+    "target": "audio/generated-verses-es/03-dama.mp3",
+    "sha256": "0164e2838ab6f9eef6c3b0819edc665b4097445a823d517bf297e592ed2d9695"
+  },
+  {
+    "id": 4,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/catrin.mp3",
+    "target": "audio/generated-es/04-catrin.mp3",
+    "sha256": "6f79ed700a28499e1980516fd92365d9d9fdad2913c89fe5cbd9661b0afc6544"
+  },
+  {
+    "id": 4,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/catrin.mp3",
+    "target": "audio/generated-en/04-catrin.mp3",
+    "sha256": "d3404f5c2d1f3962d4608e9d7ad671703d687212192a1e6479d9bc312801c65f"
+  },
+  {
+    "id": 4,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/catrin.mp3",
+    "target": "audio/generated-verses-es/04-catrin.mp3",
+    "sha256": "bfa8780ea3f5e0705e44aa53d2f00a2d792fb38b743b7f2d5788819a479d6c22"
+  },
+  {
+    "id": 5,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/paraguas.mp3",
+    "target": "audio/generated-es/05-paraguas.mp3",
+    "sha256": "8b756fd6ddba16be7ba9e7508332ce974cba25d32931593f5bd36306ac5c30cc"
+  },
+  {
+    "id": 5,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/paraguas.mp3",
+    "target": "audio/generated-en/05-paraguas.mp3",
+    "sha256": "95a88eec1f630e02d7a00a615172bcbf6ba9d6a84b0f350d3514c131963a1519"
+  },
+  {
+    "id": 5,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/paraguas.mp3",
+    "target": "audio/generated-verses-es/05-paraguas.mp3",
+    "sha256": "bd6f6077e6cf9b4258d52ab5cd676321930fb9b9d5f36f7d25577573a3f732f3"
+  },
+  {
+    "id": 6,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/sirena.mp3",
+    "target": "audio/generated-es/06-sirena.mp3",
+    "sha256": "cdb693c7e75ace267f09a9d67431a21bf0203a8995fa81cbc854ae05ae20273d"
+  },
+  {
+    "id": 6,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/sirena.mp3",
+    "target": "audio/generated-en/06-sirena.mp3",
+    "sha256": "c6b8a0fcfb7a03b065d56db4f01f3bc30fd4553d20da3460383cf99a1ad689ae"
+  },
+  {
+    "id": 6,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/sirena.mp3",
+    "target": "audio/generated-verses-es/06-sirena.mp3",
+    "sha256": "0293497514aa318c093ae630e389c51d0871d9219f1073c852bb9ab86a361c2b"
+  },
+  {
+    "id": 7,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/escalera.mp3",
+    "target": "audio/generated-es/07-escalera.mp3",
+    "sha256": "51226ffd2b89c0baddf80d495c7c529239edf06a5b6baf6375d2eb3ca57ed0ca"
+  },
+  {
+    "id": 7,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/escalera.mp3",
+    "target": "audio/generated-en/07-escalera.mp3",
+    "sha256": "5992cf976de6dfb7b7e6e8f624f1abee97a713b534c1f1b486881568ce317097"
+  },
+  {
+    "id": 7,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/escalera.mp3",
+    "target": "audio/generated-verses-es/07-escalera.mp3",
+    "sha256": "88d62041f71117d12e09e3a1215958f45f956d50fa06da02c458b77006235c45"
+  },
+  {
+    "id": 8,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/botella.mp3",
+    "target": "audio/generated-es/08-botella.mp3",
+    "sha256": "67381439431a90f33b9dc73f779c583a0f3855869217708ce833a71d6907cf24"
+  },
+  {
+    "id": 8,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/botella.mp3",
+    "target": "audio/generated-en/08-botella.mp3",
+    "sha256": "d2e72b89fab533554349ac63cae305a019ebe9b982388c62529c19f8733e46fb"
+  },
+  {
+    "id": 8,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/botella.mp3",
+    "target": "audio/generated-verses-es/08-botella.mp3",
+    "sha256": "3a714c7303e84ca6a28f40b6638acfd2bd80a12030f683bad6b19ccb9d77e968"
+  },
+  {
+    "id": 9,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/barril.mp3",
+    "target": "audio/generated-es/09-barril.mp3",
+    "sha256": "6e1283772787c9bc5babb4796eab9fd534d72844da6e6302e9b96199b69ae7a5"
+  },
+  {
+    "id": 9,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/barril.mp3",
+    "target": "audio/generated-en/09-barril.mp3",
+    "sha256": "dc83c08dc0e12ce6b8dfbdc2c4f969bdf9cea3aec34058f4242e53cbc6c71f1d"
+  },
+  {
+    "id": 9,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/barril.mp3",
+    "target": "audio/generated-verses-es/09-barril.mp3",
+    "sha256": "ae38bff1aefd2d0a8fdb58eca860d783613bd5e09035314ff3635e2c57ad21a7"
+  },
+  {
+    "id": 10,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/arbol.mp3",
+    "target": "audio/generated-es/10-arbol.mp3",
+    "sha256": "15d745751f0ac776945a550dc612df31be430b5684c551ac7e878990a7171a9b"
+  },
+  {
+    "id": 10,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/arbol.mp3",
+    "target": "audio/generated-en/10-arbol.mp3",
+    "sha256": "7381380687a1b6908ca2fff56a011157ecf8e9c0128c8895a9a8d4129d1b8268"
+  },
+  {
+    "id": 10,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/arbol.mp3",
+    "target": "audio/generated-verses-es/10-arbol.mp3",
+    "sha256": "782eb979dcdb4ed1c57f6306ec5795e4299f4d81108c9d8b7075c4c685299777"
+  },
+  {
+    "id": 11,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/melon.mp3",
+    "target": "audio/generated-es/11-melon.mp3",
+    "sha256": "e9e43ecc662c4a35bd1789799dca050d3d173077496e29df7e428b5b898cec2f"
+  },
+  {
+    "id": 11,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/melon.mp3",
+    "target": "audio/generated-en/11-melon.mp3",
+    "sha256": "c07d17303f5a1436c2dabb2c02eafafeeacee23310dc4626df8d8fd7b8c570b7"
+  },
+  {
+    "id": 11,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/melon.mp3",
+    "target": "audio/generated-verses-es/11-melon.mp3",
+    "sha256": "4284e2f455501136b38bfa6859a982db4ea34b117cb3e350beb2d81d33b5dfd8"
+  },
+  {
+    "id": 12,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/valiente.mp3",
+    "target": "audio/generated-es/12-valiente.mp3",
+    "sha256": "7471d84c3a228aa35de5fe117e761e438f96c710a5ee562e71e1f88163fd1355"
+  },
+  {
+    "id": 12,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/valiente.mp3",
+    "target": "audio/generated-en/12-valiente.mp3",
+    "sha256": "0bc9b22f0dabe2f5602bce68c9a4194ed2288877f66cbcd6c2e6f93a1b656ae6"
+  },
+  {
+    "id": 12,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/valiente.mp3",
+    "target": "audio/generated-verses-es/12-valiente.mp3",
+    "sha256": "8a4f99cd71a939388671e87707025d72af0eb0b867d93c160271983758387979"
+  },
+  {
+    "id": 13,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/gorrito.mp3",
+    "target": "audio/generated-es/13-gorrito.mp3",
+    "sha256": "7df892818e98ba4f70061807dbfd42f51d1ff9f27a0133bf161cc61d0fde81de"
+  },
+  {
+    "id": 13,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/gorrito.mp3",
+    "target": "audio/generated-en/13-gorrito.mp3",
+    "sha256": "951a7ce3fc0f78f6aeb51f1a43fe4f5e2dc9adf7d9637c8967ceb0237b9c9c4f"
+  },
+  {
+    "id": 13,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/gorrito.mp3",
+    "target": "audio/generated-verses-es/13-gorrito.mp3",
+    "sha256": "84f1ac447f3635d93b90ce919838f9fd185a072f25653620579fff0d19aa1d26"
+  },
+  {
+    "id": 14,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/muerte.mp3",
+    "target": "audio/generated-es/14-muerte.mp3",
+    "sha256": "6e52f1c1c91c749e47a7c271959550929ff2ce5fdd9f56fca7fdc8b48f5d5aff"
+  },
+  {
+    "id": 14,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/muerte.mp3",
+    "target": "audio/generated-en/14-muerte.mp3",
+    "sha256": "fb648259861d2e664662f326932dc3d742e5a25a680841941059d7f6b1e0f4f5"
+  },
+  {
+    "id": 14,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/muerte.mp3",
+    "target": "audio/generated-verses-es/14-muerte.mp3",
+    "sha256": "266b0a5a225a797e1380276ea9f63740ac2c5eda769148e786fa9135a900c9c4"
+  },
+  {
+    "id": 15,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/pera.mp3",
+    "target": "audio/generated-es/15-pera.mp3",
+    "sha256": "3833e27eb8706ecb7e7a859244da34028bfdf6c4e63b23f5b9d7d7e032c2d730"
+  },
+  {
+    "id": 15,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/pera.mp3",
+    "target": "audio/generated-en/15-pera.mp3",
+    "sha256": "f776935566504319ce023422436ffe5eda64265bc9d882f82d656cb2f4c9504d"
+  },
+  {
+    "id": 15,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/pera.mp3",
+    "target": "audio/generated-verses-es/15-pera.mp3",
+    "sha256": "df936283ea0a3eec08f33803357c43a0b9e14d09843e3c5dffa2554fbca3c1f2"
+  },
+  {
+    "id": 16,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/bandera.mp3",
+    "target": "audio/generated-es/16-bandera.mp3",
+    "sha256": "89d3c4c62418d60061d963838bc76e840b6d07c5d82a9afa3760f6c3b46d66d8"
+  },
+  {
+    "id": 16,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/bandera.mp3",
+    "target": "audio/generated-en/16-bandera.mp3",
+    "sha256": "6ed80678a14695a911f172d267303b9f86c24d3de1600aa880bc4f2c884bd236"
+  },
+  {
+    "id": 16,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/bandera.mp3",
+    "target": "audio/generated-verses-es/16-bandera.mp3",
+    "sha256": "e542335464caa9911b9cf02808e4c70a728fefa9b7fc78dd602e96f1930b0e10"
+  },
+  {
+    "id": 17,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/bandolon.mp3",
+    "target": "audio/generated-es/17-bandolon.mp3",
+    "sha256": "4c498614303de2ec56b78d73bd5afd3b1e8a985c12a97ca0bb11e253135a2a88"
+  },
+  {
+    "id": 17,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/bandolon.mp3",
+    "target": "audio/generated-en/17-bandolon.mp3",
+    "sha256": "0f4b698e30a39a39a9b4f512a498dd14d4c28dee8002fbb43d8f8fe160ec0175"
+  },
+  {
+    "id": 17,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/bandolon.mp3",
+    "target": "audio/generated-verses-es/17-bandolon.mp3",
+    "sha256": "9deb3408ee463fceec975955f6df13f506754f443ecb9311884d7b08ac9824ff"
+  },
+  {
+    "id": 18,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/violoncello.mp3",
+    "target": "audio/generated-es/18-violoncello.mp3",
+    "sha256": "9eff9baf3f832771ee79b70377dadca399c8762892ec106d6c1ab0e39d1f392a"
+  },
+  {
+    "id": 18,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/violoncello.mp3",
+    "target": "audio/generated-en/18-violoncello.mp3",
+    "sha256": "1653d163529aff9e9c1d5b5711bba6880c1579cd37c07b979fa0a8487c066d14"
+  },
+  {
+    "id": 18,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/violoncello.mp3",
+    "target": "audio/generated-verses-es/18-violoncello.mp3",
+    "sha256": "0d087869363eefb3dfb2961c38066bee94d70d8257f4afe3d383c2764a3efc5a"
+  },
+  {
+    "id": 19,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/garza.mp3",
+    "target": "audio/generated-es/19-garza.mp3",
+    "sha256": "d5b5ef9b93e419602913bdf87b55e3433744b6c7ac1ad8cb1c1468dce0bcdee8"
+  },
+  {
+    "id": 19,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/garza.mp3",
+    "target": "audio/generated-en/19-garza.mp3",
+    "sha256": "7e47392065356d2a950de4bc112aafd0d2c34744efd5ef5fc3b147886322dc64"
+  },
+  {
+    "id": 19,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/garza.mp3",
+    "target": "audio/generated-verses-es/19-garza.mp3",
+    "sha256": "b58722b495af35ec8ad1b700d4c33d8e67e25e19b3a84be804b1852c38042126"
+  },
+  {
+    "id": 20,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/pajaro.mp3",
+    "target": "audio/generated-es/20-pajaro.mp3",
+    "sha256": "385ded8592b0d09d1466bbbac6c5a9db249383fa5f2f07e6ca36e1004f34e528"
+  },
+  {
+    "id": 20,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/pajaro.mp3",
+    "target": "audio/generated-en/20-pajaro.mp3",
+    "sha256": "dc429ca60e659013c146f6fc3bdc2e8328dce9ab0bfb145baada953b108864ed"
+  },
+  {
+    "id": 20,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/pajaro.mp3",
+    "target": "audio/generated-verses-es/20-pajaro.mp3",
+    "sha256": "346f6ea86e92b4e7106acc54cde3bac1c27b5c78b5299b055ebd37f483b9690e"
+  },
+  {
+    "id": 21,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/mano.mp3",
+    "target": "audio/generated-es/21-mano.mp3",
+    "sha256": "fbfc9e478c355b9c10fb289858f70476aedca2ee30d0fe45561f64464a457043"
+  },
+  {
+    "id": 21,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/mano.mp3",
+    "target": "audio/generated-en/21-mano.mp3",
+    "sha256": "9afc84df5db35451d66b347f753636a806fb8ba8dc59701038b68e49bd5d7dd9"
+  },
+  {
+    "id": 21,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/mano.mp3",
+    "target": "audio/generated-verses-es/21-mano.mp3",
+    "sha256": "87411169a1f44afdc288a1d1e4ec3845c796158343e902586bda376c3eed6737"
+  },
+  {
+    "id": 22,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/bota.mp3",
+    "target": "audio/generated-es/22-bota.mp3",
+    "sha256": "5a4bcc41c7c93238cb16779bd30fc94fb26d77b2afa4897d17c1f02b3960849b"
+  },
+  {
+    "id": 22,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/bota.mp3",
+    "target": "audio/generated-en/22-bota.mp3",
+    "sha256": "3be72b43758dfa691b4cf4b8562810ed537ab049246a899d78303db91aef2e7d"
+  },
+  {
+    "id": 22,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/bota.mp3",
+    "target": "audio/generated-verses-es/22-bota.mp3",
+    "sha256": "8dd386831bb7dce8532289db3275ee25f2ffe248523e16300e59a35e0da6d6ad"
+  },
+  {
+    "id": 23,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/luna.mp3",
+    "target": "audio/generated-es/23-luna.mp3",
+    "sha256": "1a5ab673398d3d970f47eae78a5d3705125f3583d49cb7f598bc5c76decef448"
+  },
+  {
+    "id": 23,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/luna.mp3",
+    "target": "audio/generated-en/23-luna.mp3",
+    "sha256": "0534e31db9c1a233aa11cca90fe312de33a37e8346981357385295b444f0c425"
+  },
+  {
+    "id": 23,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/luna.mp3",
+    "target": "audio/generated-verses-es/23-luna.mp3",
+    "sha256": "879df3bea26475cb11e8eed05da598de3e4a260dcab398c8c83bd42b0478294b"
+  },
+  {
+    "id": 24,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/cotorro.mp3",
+    "target": "audio/generated-es/24-cotorro.mp3",
+    "sha256": "efb0692678d602ebacbd42c9dc3a34b7bb94138c237b4951f658e414813a1df1"
+  },
+  {
+    "id": 24,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/cotorro.mp3",
+    "target": "audio/generated-en/24-cotorro.mp3",
+    "sha256": "b9a8bcb0d6b14151d8df7c0dda63815126ce0e01a07ea767f43429cc5f35e9bc"
+  },
+  {
+    "id": 24,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/cotorro.mp3",
+    "target": "audio/generated-verses-es/24-cotorro.mp3",
+    "sha256": "f7a250b37918967c48d655d58567d2814196feebc145a7cf4a4f820a6f0fe94c"
+  },
+  {
+    "id": 25,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/borracho.mp3",
+    "target": "audio/generated-es/25-borracho.mp3",
+    "sha256": "002e9f8cd434f567daadaa34c8ffd1403cb28c9b14a578d791b805678e105bdc"
+  },
+  {
+    "id": 25,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/borracho.mp3",
+    "target": "audio/generated-en/25-borracho.mp3",
+    "sha256": "02026601c69eaf5015fb67bb3d44a1c99dd0120e3dbc2798e55b6d02b9268d4a"
+  },
+  {
+    "id": 25,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/borracho.mp3",
+    "target": "audio/generated-verses-es/25-borracho.mp3",
+    "sha256": "3a7e347ff532547df6746f82016f0af24e9675866273fbbc5ccd46b25604793d"
+  },
+  {
+    "id": 26,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/negrito.mp3",
+    "target": "audio/generated-es/26-negrito.mp3",
+    "sha256": "a980f29455a482a377fae2c41c3cb079d81a48d81e5d15d566c1b3cf4c76c580"
+  },
+  {
+    "id": 26,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/negrito.mp3",
+    "target": "audio/generated-en/26-negrito.mp3",
+    "sha256": "7d5784f2804381447ecf9feb9158cba05b50470e91da1eb48f1145c3fbeeb36c"
+  },
+  {
+    "id": 26,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/negrito.mp3",
+    "target": "audio/generated-verses-es/26-negrito.mp3",
+    "sha256": "8e121d85ec8e922098ceb2e0e3e9a0d83392f6854f286faddbba2cf9db752185"
+  },
+  {
+    "id": 27,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/corazon.mp3",
+    "target": "audio/generated-es/27-corazon.mp3",
+    "sha256": "ad1747ade2a8f0c0cec97d553101b5dd2ccee6c994bef432394025a4f99a66a7"
+  },
+  {
+    "id": 27,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/corazon.mp3",
+    "target": "audio/generated-en/27-corazon.mp3",
+    "sha256": "ac537cc3ed13e1319fad30fb1e22c04873120773185a23408965bd198d52e24b"
+  },
+  {
+    "id": 27,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/corazon.mp3",
+    "target": "audio/generated-verses-es/27-corazon.mp3",
+    "sha256": "6660e186bc0784d944b53e91a926ff69d6f584d72f0cfa9f700228ecd0e8c1f4"
+  },
+  {
+    "id": 28,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/sandia.mp3",
+    "target": "audio/generated-es/28-sandia.mp3",
+    "sha256": "e189cde0ec90a97b283e0707c1249a0a83da2801c8d298e839b8b4b6876efc8c"
+  },
+  {
+    "id": 28,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/sandia.mp3",
+    "target": "audio/generated-en/28-sandia.mp3",
+    "sha256": "50b387fe67c70e4f9dd74537592d764d3c636fc9eb1f21c0df9d9a1ef82c62ac"
+  },
+  {
+    "id": 28,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/sandia.mp3",
+    "target": "audio/generated-verses-es/28-sandia.mp3",
+    "sha256": "cf1cd558fece042bda4998b37eea2bb95bb03d7d83f24b188417b1285dc35ac3"
+  },
+  {
+    "id": 29,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/tambor.mp3",
+    "target": "audio/generated-es/29-tambor.mp3",
+    "sha256": "3e3cd79a0f0c010540d69257d26e92853b9cf059fd1ce4ca1a0e1264855e696f"
+  },
+  {
+    "id": 29,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/tambor.mp3",
+    "target": "audio/generated-en/29-tambor.mp3",
+    "sha256": "33fa7d5b96105e671499aa3c9035e53ae2afcb7bf810d6b3835b22fd50ea2613"
+  },
+  {
+    "id": 29,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/tambor.mp3",
+    "target": "audio/generated-verses-es/29-tambor.mp3",
+    "sha256": "7d2bf1b25bde3170c695f8c363f5c1fb0b294d71c005722f460c9bb5b61e19b8"
+  },
+  {
+    "id": 30,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/camaron.mp3",
+    "target": "audio/generated-es/30-camaron.mp3",
+    "sha256": "f0c0e44a97cc4600be730de9f7ef1dfedfbcb80185b59ccfe723fd79451ae596"
+  },
+  {
+    "id": 30,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/camaron.mp3",
+    "target": "audio/generated-en/30-camaron.mp3",
+    "sha256": "e43594242081c45e105233e64f24e37c0ae76d820c176f759c6400d8ff5d93fc"
+  },
+  {
+    "id": 30,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/camaron.mp3",
+    "target": "audio/generated-verses-es/30-camaron.mp3",
+    "sha256": "45c2c162cfffe4642f89d7ddbf19e89cd338257feaa7985a3a58d9de93f50180"
+  },
+  {
+    "id": 31,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/jaras.mp3",
+    "target": "audio/generated-es/31-jaras.mp3",
+    "sha256": "59404b6f688bbda6b9e117e95dc967ac5751f8cd509dbbbfed1f6f37c1b3f9d9"
+  },
+  {
+    "id": 31,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/jaras.mp3",
+    "target": "audio/generated-en/31-jaras.mp3",
+    "sha256": "eebd961a08c90705e03e1dae06b96e253c75bcd7cad33a27e59c9ee97627dc72"
+  },
+  {
+    "id": 31,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/jaras.mp3",
+    "target": "audio/generated-verses-es/31-jaras.mp3",
+    "sha256": "2390b7ef25f6bc571f205574025bdc55d80f2d7dddbc04b8561f691deb87e75f"
+  },
+  {
+    "id": 32,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/musico.mp3",
+    "target": "audio/generated-es/32-musico.mp3",
+    "sha256": "43bcb89d862fbae4a05d9c88ee09e809498ba1290ae1ed827aad61d83f6aafa1"
+  },
+  {
+    "id": 32,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/musico.mp3",
+    "target": "audio/generated-en/32-musico.mp3",
+    "sha256": "34ddd0214be8dddca270a779689a99e4f615d7b26af7458c9a365369b967d8eb"
+  },
+  {
+    "id": 32,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/musico.mp3",
+    "target": "audio/generated-verses-es/32-musico.mp3",
+    "sha256": "430980e7f9f31f9510b315d9487d49c7db998d98d0c296cf4af6b37f4609ea64"
+  },
+  {
+    "id": 33,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/arana.mp3",
+    "target": "audio/generated-es/33-arana.mp3",
+    "sha256": "18263d3df4d51bba58069d86c4405dc2aa62cdf58ca0cbe05b8ffb19160156c0"
+  },
+  {
+    "id": 33,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/arana.mp3",
+    "target": "audio/generated-en/33-arana.mp3",
+    "sha256": "a76f110a6bcf956e181758d5b475a35621f7e2d245a81cf6c2779a9826de9a26"
+  },
+  {
+    "id": 33,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/arana.mp3",
+    "target": "audio/generated-verses-es/33-arana.mp3",
+    "sha256": "b4289302c5935608f2d6a7a3548131f06fca39c9e36a28b5d1867e45fc2073a1"
+  },
+  {
+    "id": 34,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/soldado.mp3",
+    "target": "audio/generated-es/34-soldado.mp3",
+    "sha256": "2d0ed6c8e390de821427e342417cffb78ba2c5988cc792f73f51ed8c5502fa29"
+  },
+  {
+    "id": 34,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/soldado.mp3",
+    "target": "audio/generated-en/34-soldado.mp3",
+    "sha256": "974c42afbf7c374fbcedbcb8c8bae25ae29fb8e5fac855863f5be72a62653673"
+  },
+  {
+    "id": 34,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/soldado.mp3",
+    "target": "audio/generated-verses-es/34-soldado.mp3",
+    "sha256": "0100913a5039b1a6d4acc1bf7330a7bf12f371f4d466362c522609ed6a2051a3"
+  },
+  {
+    "id": 35,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/estrella.mp3",
+    "target": "audio/generated-es/35-estrella.mp3",
+    "sha256": "0bc5e4252dfd63b5798552d8c5eb73f645038a9dd553dfb84c5755486d3f1278"
+  },
+  {
+    "id": 35,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/estrella.mp3",
+    "target": "audio/generated-en/35-estrella.mp3",
+    "sha256": "47fe198145da6dc6cd850ce19d8535473dbdce61820c734ef5d06f679dfdbea0"
+  },
+  {
+    "id": 35,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/estrella.mp3",
+    "target": "audio/generated-verses-es/35-estrella.mp3",
+    "sha256": "55f395ba5225158616ba719b2ba6be2d4f9ec14fb95ff35d5102c3156a0f4614"
+  },
+  {
+    "id": 36,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/cazo.mp3",
+    "target": "audio/generated-es/36-cazo.mp3",
+    "sha256": "bcc4fe0d4f25f4dc50080ea606fb6fc5e14cd94c0c9848894a7a039d27b48b5c"
+  },
+  {
+    "id": 36,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/cazo.mp3",
+    "target": "audio/generated-en/36-cazo.mp3",
+    "sha256": "c82dcd57c4f862c90d371033ffd523da20edd615b20b991f6edad9f026de418b"
+  },
+  {
+    "id": 36,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/cazo.mp3",
+    "target": "audio/generated-verses-es/36-cazo.mp3",
+    "sha256": "f9459939bcb6fbaeb89bc6e76b736e3daff40517086eccc03bb45b472079766a"
+  },
+  {
+    "id": 37,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/mundo.mp3",
+    "target": "audio/generated-es/37-mundo.mp3",
+    "sha256": "aa674b927336db3c393d40932d80e489962d3381c3c6b5e527b8786c75c5d24b"
+  },
+  {
+    "id": 37,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/mundo.mp3",
+    "target": "audio/generated-en/37-mundo.mp3",
+    "sha256": "d0546273e41b5aedf2e6baaef75847a212e78837efc33df865ea1f91edb14343"
+  },
+  {
+    "id": 37,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/mundo.mp3",
+    "target": "audio/generated-verses-es/37-mundo.mp3",
+    "sha256": "02a7a18cc91c762a7b225835956bc0b3f42a792c504df164b154154ca2f1797d"
+  },
+  {
+    "id": 38,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/apache.mp3",
+    "target": "audio/generated-es/38-apache.mp3",
+    "sha256": "70a06eb6952857a29a5a0a3869e4fcf5748cbe66c46e82d5a2d47dfbe5cab6a8"
+  },
+  {
+    "id": 38,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/apache.mp3",
+    "target": "audio/generated-en/38-apache.mp3",
+    "sha256": "badce74d85cc6e500ed3b4413d1ded7c731893389b9d7012380e303c76a053b6"
+  },
+  {
+    "id": 38,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/apache.mp3",
+    "target": "audio/generated-verses-es/38-apache.mp3",
+    "sha256": "edd1e6e0e10f6dec2adbb6e0393d4453544953a7b450b909cddea7136f5a7e11"
+  },
+  {
+    "id": 39,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/nopal.mp3",
+    "target": "audio/generated-es/39-nopal.mp3",
+    "sha256": "90401ac219a1c541650ce63044931f0101c3ff78a043cb9b26986268f3cb6612"
+  },
+  {
+    "id": 39,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/nopal.mp3",
+    "target": "audio/generated-en/39-nopal.mp3",
+    "sha256": "e87b7ec0eb06f6cd88cb1dd917805f1f5b432b69db22a486f7e1aea1bad13913"
+  },
+  {
+    "id": 39,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/nopal.mp3",
+    "target": "audio/generated-verses-es/39-nopal.mp3",
+    "sha256": "865a5de5569e021c8ad7c9642ab760b235c8f2e4955e316adc463b49366bcaf3"
+  },
+  {
+    "id": 40,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/alacran.mp3",
+    "target": "audio/generated-es/40-alacran.mp3",
+    "sha256": "5d46befaa8c74191376ed5ec3934e930591f6cfe7e97ee315a87fb6c1635d368"
+  },
+  {
+    "id": 40,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/alacran.mp3",
+    "target": "audio/generated-en/40-alacran.mp3",
+    "sha256": "c95f960681ba7e64514ac160405a463b5bb58969ea8f37b7241d57b0e65cb3c9"
+  },
+  {
+    "id": 40,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/alacran.mp3",
+    "target": "audio/generated-verses-es/40-alacran.mp3",
+    "sha256": "8a9bc94fb3f368624731db03fda8b04f2d18951fb0c667c12426f2e1a166cce6"
+  },
+  {
+    "id": 41,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/rosa.mp3",
+    "target": "audio/generated-es/41-rosa.mp3",
+    "sha256": "ec55d001e6f5a89e52153992266f6e670f2b057376969609a1a0e24e2e91be73"
+  },
+  {
+    "id": 41,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/rosa.mp3",
+    "target": "audio/generated-en/41-rosa.mp3",
+    "sha256": "a918216d6450e3e630a3d0a550addc19e0633960f2bad7c77e87bcbbe7afb8c9"
+  },
+  {
+    "id": 41,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/rosa.mp3",
+    "target": "audio/generated-verses-es/41-rosa.mp3",
+    "sha256": "278fb66ca99aeceb897f2a981393e787bc50803e5e33055b2cbc28ce3534f04c"
+  },
+  {
+    "id": 42,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/calavera.mp3",
+    "target": "audio/generated-es/42-calavera.mp3",
+    "sha256": "20a6f998b59f7d3371172807ef476bfb769d3857f0de5bb11da3e738e2bcca0a"
+  },
+  {
+    "id": 42,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/calavera.mp3",
+    "target": "audio/generated-en/42-calavera.mp3",
+    "sha256": "c908546160d7e378d28c046e83cda8ae57ce8fb090f2b2ce2ec37164f0f74de7"
+  },
+  {
+    "id": 42,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/calavera.mp3",
+    "target": "audio/generated-verses-es/42-calavera.mp3",
+    "sha256": "df2536de4005a918534b5ee1eb9affcc60085a4a5bdfbe7c578d2f3be61f072d"
+  },
+  {
+    "id": 43,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/campana.mp3",
+    "target": "audio/generated-es/43-campana.mp3",
+    "sha256": "b2f5488ddae5d6da5e7e72c432cdea71fb8e79b6d290f253c9968ff498c3a93f"
+  },
+  {
+    "id": 43,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/campana.mp3",
+    "target": "audio/generated-en/43-campana.mp3",
+    "sha256": "91556c6adf88ff8a7e0f6b0d2c07f267f42c39308e0d2afe7eb22f0af605462f"
+  },
+  {
+    "id": 43,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/campana.mp3",
+    "target": "audio/generated-verses-es/43-campana.mp3",
+    "sha256": "814a65a2e7595c78b2b88bcd355d34be5732dad260c0476015a2c1c42fea5a92"
+  },
+  {
+    "id": 44,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/cantarito.mp3",
+    "target": "audio/generated-es/44-cantarito.mp3",
+    "sha256": "893053e36d87838c3545b878ef59ff6f298602265ade86241ea16210af890c72"
+  },
+  {
+    "id": 44,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/cantarito.mp3",
+    "target": "audio/generated-en/44-cantarito.mp3",
+    "sha256": "b58a004620f5c2e970839b3cad8224e8653947fc716d0e1118d3088509b07039"
+  },
+  {
+    "id": 44,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/cantarito.mp3",
+    "target": "audio/generated-verses-es/44-cantarito.mp3",
+    "sha256": "d752fdb02444c91b74a8fa97c06d6eaa62ce522514c612435a35d81ae03233de"
+  },
+  {
+    "id": 45,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/venado.mp3",
+    "target": "audio/generated-es/45-venado.mp3",
+    "sha256": "229730bc4f7713875d6fdb933b4a13457e2d05fe06186eb04cdcd736a26e0fdc"
+  },
+  {
+    "id": 45,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/venado.mp3",
+    "target": "audio/generated-en/45-venado.mp3",
+    "sha256": "a4783ace5aa85247ec27f3d2cd8bb09d39b3b10d738215f887f2f6fdb2063bec"
+  },
+  {
+    "id": 45,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/venado.mp3",
+    "target": "audio/generated-verses-es/45-venado.mp3",
+    "sha256": "8a25e584435adb60567e47025b5e74181d6c2b4b849c8885227463f3b1737f9a"
+  },
+  {
+    "id": 46,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/sol.mp3",
+    "target": "audio/generated-es/46-sol.mp3",
+    "sha256": "01792f0cb6561d4a623362abe132667fe2d6664d2116640c968ef466f602f19d"
+  },
+  {
+    "id": 46,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/sol.mp3",
+    "target": "audio/generated-en/46-sol.mp3",
+    "sha256": "7d13c5a65ad0e461eed1cbfe5a68890d24673a72086a52d6fe3016cbee7ee63a"
+  },
+  {
+    "id": 46,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/sol.mp3",
+    "target": "audio/generated-verses-es/46-sol.mp3",
+    "sha256": "46c2d2da1cc002242d46889a472580ef9fef127362f339e6295326bb6f13de90"
+  },
+  {
+    "id": 47,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/corona.mp3",
+    "target": "audio/generated-es/47-corona.mp3",
+    "sha256": "7c0a88e0471f79d04b73d0743bd93beeb98cd4e2169501c725d7983a6b8bc024"
+  },
+  {
+    "id": 47,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/corona.mp3",
+    "target": "audio/generated-en/47-corona.mp3",
+    "sha256": "0a56292d8f630126ccdff3ee3f95ecc66eb70a5fc37ced4d3c807749b7049754"
+  },
+  {
+    "id": 47,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/corona.mp3",
+    "target": "audio/generated-verses-es/47-corona.mp3",
+    "sha256": "a74577ee59897aaa1064113c8bf7a985b1b162de1a96007b7ce4b52040b425d7"
+  },
+  {
+    "id": 48,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/chalupa.mp3",
+    "target": "audio/generated-es/48-chalupa.mp3",
+    "sha256": "b2f52177faf030211272db7a638f60feaad74b7f0dae8b10f4090a8f702af8c4"
+  },
+  {
+    "id": 48,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/chalupa.mp3",
+    "target": "audio/generated-en/48-chalupa.mp3",
+    "sha256": "b5defbb8cd4a4fa681393f8b004814742146dfcc477c43a2a36f3deb6d2e004f"
+  },
+  {
+    "id": 48,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/chalupa.mp3",
+    "target": "audio/generated-verses-es/48-chalupa.mp3",
+    "sha256": "fd93686aaec636618c3f88313f4d4e788f0eec30b66ccceaf93a2e58d0f1c49e"
+  },
+  {
+    "id": 49,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/pino.mp3",
+    "target": "audio/generated-es/49-pino.mp3",
+    "sha256": "180fb4c396e31c645b40003cfed6bef7b06b66d09b73c9c78c800a69a044b906"
+  },
+  {
+    "id": 49,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/pino.mp3",
+    "target": "audio/generated-en/49-pino.mp3",
+    "sha256": "00ce945f44ed24a0317f8afade5b238bc8929b70a0754d6a99f6302c867c680f"
+  },
+  {
+    "id": 49,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/pino.mp3",
+    "target": "audio/generated-verses-es/49-pino.mp3",
+    "sha256": "46ef92b0f001b7cf0087aca63ce4757106f74864d816fe68471f9e7e71e49266"
+  },
+  {
+    "id": 50,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/pescado.mp3",
+    "target": "audio/generated-es/50-pescado.mp3",
+    "sha256": "138f56d4075a48906d94c14544e8fb6c70ef66945f4cce149286e6336b7df74b"
+  },
+  {
+    "id": 50,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/pescado.mp3",
+    "target": "audio/generated-en/50-pescado.mp3",
+    "sha256": "85b4736d99ec5e85e2310c08da780f499f922c65ccb0a85a8ab8bd011b7d35f5"
+  },
+  {
+    "id": 50,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/pescado.mp3",
+    "target": "audio/generated-verses-es/50-pescado.mp3",
+    "sha256": "1dc5c9ee1b8da4044df91edb79ce64af6f4bbd9a14d20dce6121a40f8e757c8f"
+  },
+  {
+    "id": 51,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/palma.mp3",
+    "target": "audio/generated-es/51-palma.mp3",
+    "sha256": "f0969385e6dc0dbb52714cb4ef27832d878b596174b1a6ba25cdfb343c311fe9"
+  },
+  {
+    "id": 51,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/palma.mp3",
+    "target": "audio/generated-en/51-palma.mp3",
+    "sha256": "ee813e3dfb27205cee2fe5d97f5e6d0c5ab753de24a7122bd7967d9fc2b692a3"
+  },
+  {
+    "id": 51,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/palma.mp3",
+    "target": "audio/generated-verses-es/51-palma.mp3",
+    "sha256": "ccc15a946047bbcb5e3bb7a000dec6ef2ca1a24ac9a2ccbf7d371f52e0b11cf6"
+  },
+  {
+    "id": 52,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/maceta.mp3",
+    "target": "audio/generated-es/52-maceta.mp3",
+    "sha256": "3873025e422d0cee1bc4d36af28b67c4d5ca9c8bcd3ef334b6cf81bc433384e6"
+  },
+  {
+    "id": 52,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/maceta.mp3",
+    "target": "audio/generated-en/52-maceta.mp3",
+    "sha256": "0a1ba217db3cd73815ac19f1761d6175557dd147f377400eccd06615a256116e"
+  },
+  {
+    "id": 52,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/maceta.mp3",
+    "target": "audio/generated-verses-es/52-maceta.mp3",
+    "sha256": "1e1f4a7ce5cc0cfb05cc5879cbe0cdba8aee2af3d409f5b4246d87742fa75bdf"
+  },
+  {
+    "id": 53,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/arpa.mp3",
+    "target": "audio/generated-es/53-arpa.mp3",
+    "sha256": "14c2d960ae5d49cb51f6d6ef3bc23725432f23ea3008be64e56d565fda9163d0"
+  },
+  {
+    "id": 53,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/arpa.mp3",
+    "target": "audio/generated-en/53-arpa.mp3",
+    "sha256": "961e8a97f53d6278088d2b471b48d4e507ce08737eadb410893f7fb91aa4343d"
+  },
+  {
+    "id": 53,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/arpa.mp3",
+    "target": "audio/generated-verses-es/53-arpa.mp3",
+    "sha256": "af395bb4228653194793e3b8fe7f63d7b47283ada0223f1a2f00825a5a2b2d3a"
+  },
+  {
+    "id": 54,
+    "variant": "generated-es",
+    "source": "https://www.loteriacaller.com/audio/es/rana.mp3",
+    "target": "audio/generated-es/54-rana.mp3",
+    "sha256": "2eb226e91a90611d11f0f3b04ec09e0b1581a1ea372ee50fccfa3514f5ce1b90"
+  },
+  {
+    "id": 54,
+    "variant": "generated-en",
+    "source": "https://www.loteriacaller.com/audio/en/rana.mp3",
+    "target": "audio/generated-en/54-rana.mp3",
+    "sha256": "5f77c2f46d6562fb16b8a05be9b1f354539507b5f759ad8f4610dda855b34b6e"
+  },
+  {
+    "id": 54,
+    "variant": "generated-verses-es",
+    "source": "https://www.loteriacaller.com/audio/dicho/rana.mp3",
+    "target": "audio/generated-verses-es/54-rana.mp3",
+    "sha256": "41e1743a74046b4f08c67dea8dc3cfdb9e3b9e43fee55b8df3693749e9590e78"
+  }
+]

@@ -14,7 +14,7 @@ errors=[]; report=[]; missing=[]
 if len(cards)!=54 or sorted(c['id'] for c in cards)!=list(range(1,55)): errors.append('Catalog must contain exactly IDs 1..54')
 for c in cards:
     if c['number']!=c['id'] or not c['title'].strip(): errors.append(f'Invalid identity/title: {c["id"]}')
-    for kind,expected in [('images',{'pixel','traditional'}),('audio',{'radioteca','repo','loteriacard'})]:
+    for kind,expected in [('images',{'pixel','traditional'}),('audio',{'repo','loteriacard','generated-es','generated-en','generated-verses-es'})]:
         if set(c.get(kind,{}))!=expected: errors.append(f'Card {c["id"]}: expected {kind} sets {sorted(expected)}')
     for kind in ('images','audio'):
         for variant,relative in c[kind].items():
@@ -40,7 +40,7 @@ for name,relative in effects.items():
     result=subprocess.run([ffmpeg,'-v','error','-i',str(p),'-f','null','-'],capture_output=True,text=True)
     if result.returncode: errors.append(f'DECODE effect: {name}: {result.stderr}')
     else: report.append(dict(kind='effect',variant=name,path=relative,sha256=hashlib.sha256(p.read_bytes()).hexdigest()))
-for kind,variants in [('images',('pixel','traditional')),('audio',('radioteca','repo','loteriacard'))]:
+for kind,variants in [('images',('pixel','traditional')),('audio',('repo','loteriacard','generated-es','generated-en','generated-verses-es'))]:
     for variant in variants:
         paths=[c.get(kind,{}).get(variant) for c in cards]
         if len(set(paths))!=54: errors.append(f'Duplicate/missing paths in {kind}/{variant}')

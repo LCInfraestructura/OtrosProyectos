@@ -20,32 +20,32 @@ static class Program {
    try { _=new Deck(cards.Take(53)); throw new Exception("Missing ID accepted"); } catch(InvalidDataException) {}
    try { _=new Deck(cards.Take(53).Append(cards[0])); throw new Exception("Duplicate ID accepted"); } catch(InvalidDataException) {}
    var app=new App(); app.InitializeComponent();
+   Directory.CreateDirectory("artifacts");
+   File.WriteAllText("artifacts/test-settings.json",JsonSerializer.Serialize(new { ImageSet="pixel",AudioSet="radioteca",Delay=3,Muted=false,Volume=0.0,FlipEnabled=true }));
    var window=new MainWindow(Path.GetFullPath("artifacts/test-settings.json")) { ShowInTaskbar=false, Opacity=0 };
    window.Show(); Pump(150);
    T Find<T>(string name) where T:class => (T)window.FindName(name);
    void Click(string name)=>Find<Button>(name).RaiseEvent(new RoutedEventArgs(Button.ClickEvent));
    string Phase()=> (string)typeof(MainWindow).GetField("phase",BindingFlags.Instance|BindingFlags.NonPublic)!.GetValue(window)!;
    int Count()=>Find<ItemsControl>("History").Items.Count;
+   Assert(((ComboBoxItem)Find<ComboBox>("AudioSet").SelectedItem).Tag.ToString()=="loteriacard","Retired preference migrates to available voice");
    Assert(!Find<StackPanel>("SettingsPanel").IsVisible,"Settings hidden from game screen");
    Dispatcher.CurrentDispatcher.BeginInvoke(DispatcherPriority.ContextIdle,new Action(()=> {
     var dialog=window.OwnedWindows.Cast<Window>().Single();
     Find<TextBox>("DelayInput").Text="6";
+    Find<ComboBox>("AudioSet").SelectedIndex=3;
     dialog.UpdateLayout(); SaveVisual(dialog,"artifacts/settings-preview.png");
     ((Button)dialog.FindName("SaveSettings")).RaiseEvent(new RoutedEventArgs(Button.ClickEvent));
    }));
    Click("SettingsButton");
+   Assert(File.ReadAllText("artifacts/test-settings.json").Contains("generated-en"),"Generated voice persists by stable key");
    Assert(Find<TextBox>("DelayInput").Text=="6" && !Find<StackPanel>("SettingsPanel").IsVisible,"Save settings and hide dialog");
    Dispatcher.CurrentDispatcher.BeginInvoke(DispatcherPriority.ContextIdle,new Action(()=> {
     Find<TextBox>("DelayInput").Text="9"; window.OwnedWindows.Cast<Window>().Single().Close();
    }));
    Click("SettingsButton"); Assert(Find<TextBox>("DelayInput").Text=="6","Closing settings cancels edits");
    Find<ComboBox>("ImageSet").SelectedIndex=0;
-   Find<ComboBox>("AudioSet").SelectedIndex=0;
-   Find<CheckBox>("Muted").IsChecked=false;
-   // Missing Radioteca must never silently switch to a different voice.
-   if(!File.Exists(Path.Combine(AppContext.BaseDirectory,"assets/loteria/audio/radioteca/01-gallo.mp3"))) {
-    Click("StartButton"); Assert(Count()==0 && Phase()=="idle","Incomplete set must block start");
-   }
+   Assert(cards.All(c=>!c.Audio.ContainsKey("radioteca") && c.Audio.ContainsKey("generated-es") && c.Audio.ContainsKey("generated-en") && c.Audio.ContainsKey("generated-verses-es")),"All classic cards have the new voices and no retired set");
    Find<ComboBox>("AudioSet").SelectedIndex=1;
    Find<CheckBox>("Muted").IsChecked=true;
    Find<TextBox>("DelayInput").Text="0.4";

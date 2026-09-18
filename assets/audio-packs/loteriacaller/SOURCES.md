@@ -19,4 +19,4 @@ Los números 55–60 son Guacamole, Taco, Chile, Elote, Tuna y Guitarra; se cons
 
 `scripts/verify-loteriacaller.py` verifica los hashes, los números únicos 1–60 por conjunto y la decodificación completa mediante FFmpeg. No equivale a una escucha humana completa. Genera ZIPs en `dist/voice-packs/`; los informes incluidos describen la extracción completa aunque el ZIP contenga un solo conjunto.
 
-Los paquetes quedan disponibles para evaluación. No se han añadido al selector de voces del juego ni se ha cambiado la voz actual.
+Las 54 cartas clásicas de cada paquete se integran en el selector como Generada · Español, Generada · Inglés y Generada · Dichos en español. Las seis cartas modernas permanecen solo en la extracción. No se cambia automáticamente la selección actual.

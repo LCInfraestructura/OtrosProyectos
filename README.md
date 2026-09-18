@@ -1,10 +1,16 @@
 # Lotería de escritorio
 
-## Paquetes extraídos para evaluar
+## Voces generadas
 
-Los audios de https://www.loteriacaller.com/ están en `assets/audio-packs/loteriacaller/`: nombres en español, nombres en inglés y dichos en español, con 60 pistas cada uno (54 clásicas y 6 adicionales). Conservan sus archivos originales y referencias. Las pistas opcionales de números respondieron HTTP 403 y no se obtuvieron. Las voces del sistema ofrecidas por el navegador no son paquetes descargables del sitio.
+En Configuración → Voz están disponibles **Generada · Español**, **Generada · Inglés** y **Generada · Dichos en español**, procedentes de https://www.loteriacaller.com/. Cada opción usa las 54 cartas clásicas del catálogo. La opción de dichos reproduce el dicho correspondiente en lugar del nombre; todas conservan la secuencia giro → grabación completa → espera configurable, a velocidad original.
 
-Esta extracción no cambia la voz ni el catálogo de la aplicación. Los ZIP de evaluación se generan con `scripts/verify-loteriacaller.py` en `dist/voice-packs/`. Consulta `assets/audio-packs/loteriacaller/SOURCES.md` para procedencia y alcance de la verificación.
+Se conservan también Voz original y LoteriaCard. Radioteca se retiró del selector, catálogo y herramientas. Una preferencia antigua de Radioteca se migra a LoteriaCard. Las demás selecciones guardadas se conservan.
+
+Los 180 MP3 extraídos (incluidas 6 cartas modernas por conjunto) siguen en `assets/audio-packs/loteriacaller/`; solo las 54 clásicas por conjunto se integran mediante `scripts/import-generated-voices.py`. No se modifican los títulos ni los bytes de audio.
+
+## Créditos de Pixel Art
+
+**Mexican Lotería — Pixel Art Sprite Pack**, de **JoseMariaGarciaMarquez / El Chemas**: https://josemariagarciamarquez.itch.io/sprites-loteria. Se utilizan las 54 ilustraciones canónicas del paquete, sin cambios artísticos. Procedencia y correspondencias: `assets/loteria/SOURCES.md` y `assets/loteria/pixel-provenance.json`.
 
 ## Repositorio
 
@@ -34,7 +40,7 @@ El diseño usa tonos crema, verde suave y terracota, controles redondeados y tí
 
 Abre `dist/Loteria/Loteria.exe`. Conserva su carpeta completa, incluidos `assets` y los archivos de .NET. No requiere instalación.
 
-Están listas las 54 imágenes Pixel Art, las 54 tradicionales, las 54 voces `repo`, las 54 voces `loteriacard` y el efecto de giro. **Selecciona audio `loteriacard` para usar las nuevas voces.** Radioteca sigue pendiente y no se reemplaza automáticamente.
+Están listas las 54 imágenes Pixel Art, las 54 tradicionales, las 54 voces `repo`, las 54 voces `loteriacard` y el efecto de giro. **Selecciona audio `loteriacard` para usar las nuevas voces.** También están disponibles las tres opciones de voces generadas.
 
 ## Jugar
 
@@ -81,12 +87,6 @@ python scripts/verify-loteria-assets.py
 python scripts/verify-loteria-assets.py --available-only
 ```
 
-La primera comprobación falla mientras falten las 54 pistas de Radioteca. `--available-only` verifica los 217 recursos disponibles, pero sigue mostrando todos los faltantes; no significa que Radioteca esté completo. Reporte en `artifacts/asset-report.json`, con análisis de volumen/silencios y hojas de contacto.
+La comprobación completa verifica 379 recursos del catálogo: 108 imágenes, 270 grabaciones y el efecto de giro. Todos los conjuntos de la aplicación están completos. Reporte en `artifacts/asset-report.json`, con análisis de volumen/silencios y hojas de contacto.
 
 Para reproducir la importación, descarga el ZIP del repositorio en `downloads/repo.zip`, ejecuta `scripts/import-repo.py`, y usa `scripts/download-pixel.py` y `scripts/import-pixel.py` para el pack del autor. Los scripts de importación mantienen las imágenes sin alteraciones artísticas.
-
-## Pendiente: Radioteca
-
-La fuente no respondió a las conexiones de descarga de este equipo. La página consultable muestra cuatro enlaces de audio, aunque describe 54 fichas. `radioteca-downloads.json` solo contiene enlaces efectivamente observados. Necesitamos recuperar las 54 pistas originales o un enlace completo disponible de esa misma fuente para cerrar esta parte.
-
-`scripts/download-radioteca.py` permite reintentar enlaces verificados y conserva originales. `scripts/process-radioteca.py` analiza un conjunto completo y, con `--normalize`, realiza normalización de volumen en dos pasadas a -18 LUFS, pico máximo -1.5 dBTP, sin recortar silencios automáticamente. Este procesamiento todavía no se ha realizado sobre Radioteca y deberá revisarse antes de dar el conjunto por validado.

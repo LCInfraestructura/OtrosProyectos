@@ -13,6 +13,6 @@ if __name__ == '__main__':
         s=slug(name); base=f'{number:02}-{s}'
         cards.append(dict(id=number, number=number, name=name, title=name, slug=s,
             images=dict(pixel=f'images/pixel/{base}.png', traditional=f'images/traditional/{base}.jpg'),
-            audio=dict(radioteca=f'audio/radioteca/{base}.mp3', repo=f'audio/repo/{base}.m4a')))
+            audio={'repo':f'audio/repo/{base}.m4a','loteriacard':f'audio/loteriacard/{base}.mp3',**{v:f'audio/{v}/{base}.mp3' for v in ('generated-es','generated-en','generated-verses-es')}}))
     target.parent.mkdir(parents=True,exist_ok=True)
     target.write_text(json.dumps(cards,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
