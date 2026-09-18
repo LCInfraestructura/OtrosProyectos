@@ -1,0 +1,10 @@
+{
+  "decoded": 180,
+  "sets": {
+    "names-es": 60,
+    "names-en": 60,
+    "verses-es": 60
+  },
+  "unavailableNumbers": 120,
+  "verification": "SHA-256 and full audio decode; semantic mapping from source catalog, not a human listening review"
+}

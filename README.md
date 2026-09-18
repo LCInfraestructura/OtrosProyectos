@@ -1,5 +1,11 @@
 # Lotería de escritorio
 
+## Paquetes extraídos para evaluar
+
+Los audios de https://www.loteriacaller.com/ están en `assets/audio-packs/loteriacaller/`: nombres en español, nombres en inglés y dichos en español, con 60 pistas cada uno (54 clásicas y 6 adicionales). Conservan sus archivos originales y referencias. Las pistas opcionales de números respondieron HTTP 403 y no se obtuvieron. Las voces del sistema ofrecidas por el navegador no son paquetes descargables del sitio.
+
+Esta extracción no cambia la voz ni el catálogo de la aplicación. Los ZIP de evaluación se generan con `scripts/verify-loteriacaller.py` en `dist/voice-packs/`. Consulta `assets/audio-packs/loteriacaller/SOURCES.md` para procedencia y alcance de la verificación.
+
 ## Repositorio
 
 Repositorio del proyecto: https://github.com/LCInfraestructura/OtrosProyectos. Rama de trabajo y entrega: `main`.
